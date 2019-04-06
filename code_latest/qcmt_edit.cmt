@@ -1,0 +1,3374 @@
+ PDE 2000 01 08 16 47 20.60  -16.9200 -174.2500 183.4 7.2 6.6 TONGA ISLANDS
+event name:         C010800G
+time shift:           9.6000
+half duration:        9.7000
+latitude:           -16.8400
+longitude:         -173.8100
+depth:              162.4000
+Mrr:           -1.180000E+25
+Mtt:           -5.990000E+25
+Mpp:            7.170000E+25
+Mrt:            3.690000E+25
+Mrp:            6.785000E+26
+Mtp:            1.012000E+26
+
+ PDE 2000 02 25 01 43 58.60  -19.5300  173.8200  33.0 7.1 7.1 VANUATU ISLANDS REGION
+event name:         C022500B
+time shift:           6.6000
+half duration:        8.9000
+latitude:           -19.5500
+longitude:          174.1700
+depth:               16.8000
+Mrr:            4.540000E+25
+Mtt:           -5.030000E+26
+Mpp:            4.576000E+26
+Mrt:            3.760000E+25
+Mrp:            1.525000E+26
+Mtp:            1.770000E+25
+
+ PDE 2000 03 28 11 00 22.50   22.3400  143.7300 126.5 7.6 7.6 VOLCANO ISLANDS, JAPAN REGION
+event name:         M032800C
+time shift:           8.8000
+half duration:       17.6000
+latitude:            22.3200
+longitude:          143.7600
+depth:               99.7000
+Mrr:           -1.800000E+25
+Mtt:            8.750000E+26
+Mpp:           -8.570000E+26
+Mrt:           -2.938000E+27
+Mrp:            1.131000E+27
+Mtp:           -5.760000E+26
+
+ PDE 2000 05 04 04 21 16.20   -1.1100  123.5700  26.0 7.5 7.5 SULAWESI, INDONESIA
+event name:         C050400A
+time shift:          17.2000
+half duration:       15.1000
+latitude:            -1.2900
+longitude:          123.5900
+depth:               18.6000
+Mrr:            8.120000E+26
+Mtt:            1.839000E+27
+Mpp:           -2.651000E+27
+Mrt:           -4.550000E+26
+Mrp:            8.390000E+26
+Mtp:           -5.500000E+25
+
+ PDE 2000 05 12 18 43 18.10  -23.5500  -66.4500 225.0 7.2 0.0 JUJUY PROVINCE, ARGENTINA
+event name:         C051200C
+time shift:          10.8000
+half duration:        8.4000
+latitude:           -23.7200
+longitude:          -66.8500
+depth:              226.6000
+Mrr:           -2.153000E+26
+Mtt:           -1.510000E+25
+Mpp:            2.304000E+26
+Mrt:           -4.850000E+25
+Mrp:           -6.164000E+26
+Mtp:            8.720000E+25
+
+ PDE 2000 06 04 16 28 26.20   -4.7200  102.0900  33.0 7.8 8.0 SOUTHERN SUMATRA, INDONESIA
+event name:         M060400D
+time shift:          20.3000
+half duration:       28.6000
+latitude:            -4.7300
+longitude:          101.9400
+depth:               43.9000
+Mrr:            3.850000E+27
+Mtt:           -3.961000E+27
+Mpp:            1.110000E+26
+Mrt:            4.000000E+25
+Mrp:           -2.720000E+27
+Mtp:           -5.995000E+27
+
+ PDE 2000 06 18 14 44 13.30  -13.8000   97.4500  10.0 7.9 7.8 SOUTH INDIAN OCEAN
+event name:         C061800A
+time shift:          14.3000
+half duration:       25.7000
+latitude:           -13.4700
+longitude:           97.1700
+depth:               15.0000
+Mrr:            1.580000E+27
+Mtt:            2.772000E+27
+Mpp:           -4.353000E+27
+Mrt:            2.966000E+27
+Mrp:            3.472000E+27
+Mtp:           -5.894000E+27
+
+ PDE 2000 08 06 07 27 12.90   28.8600  139.5600 394.8 7.3 0.0 BONIN ISLANDS, JAPAN REGION
+event name:         C080600B
+time shift:          10.7000
+half duration:       10.3000
+latitude:            28.8900
+longitude:          139.6800
+depth:              411.3000
+Mrr:           -6.187000E+26
+Mtt:            3.475000E+26
+Mpp:            2.712000E+26
+Mrt:            8.210000E+25
+Mrp:           -9.323000E+26
+Mtp:           -4.564000E+26
+
+ PDE 2000 11 16 04 54 56.70   -3.9800  152.1700  33.0 8.0 8.2 NEW IRELAND REGION, P.N.G.
+event name:         M111600B
+time shift:          39.8000
+half duration:       21.9000
+latitude:            -4.5600
+longitude:          152.7900
+depth:               24.0000
+Mrr:            3.010000E+26
+Mtt:            7.782000E+27
+Mpp:           -8.083000E+27
+Mrt:           -8.537000E+27
+Mrp:           -3.624000E+27
+Mtp:           -2.598000E+27
+
+ PDE 2000 11 16 07 42 16.90   -5.2300  153.1000  30.0 7.8 7.8 NEW IRELAND REGION, P.N.G.
+event name:         C111600C
+time shift:          27.6000
+half duration:       22.6000
+latitude:            -5.0300
+longitude:          153.1700
+depth:               31.2000
+Mrr:            3.250000E+27
+Mtt:           -2.836000E+27
+Mpp:           -4.140000E+26
+Mrt:            5.269000E+27
+Mrp:            1.964000E+27
+Mtp:           -9.330000E+26
+
+ PDE 2000 11 17 21 01 56.50   -5.5000  151.7800  33.0 7.8 8.0 NEW BRITAIN REGION, P.N.G.
+event name:         C111700Q
+time shift:          23.6000
+half duration:       21.3000
+latitude:            -5.2600
+longitude:          152.3400
+depth:               17.0000
+Mrr:            3.626000E+27
+Mtt:           -3.428000E+27
+Mpp:           -1.980000E+26
+Mrt:            3.965000E+27
+Mrp:            5.320000E+26
+Mtp:           -1.873000E+27
+
+ PDE 2001 01 01 06 57 04.20    6.9000  126.5800  33.0 7.4 7.2 MINDANAO, PHILIPPINES
+event name:         C010101B
+time shift:          19.8000
+half duration:       12.0000
+latitude:             6.7300
+longitude:          127.0700
+depth:               44.0000
+Mrr:            1.484000E+27
+Mtt:            1.910000E+26
+Mpp:           -1.675000E+27
+Mrt:            5.720000E+26
+Mrp:            8.700000E+25
+Mtp:           -3.710000E+26
+
+ PDE 2001 01 09 16 49 28.00  -14.9300  167.1700 103.0 7.0 6.6 VANUATU ISLANDS
+event name:         C010901G
+time shift:           9.9000
+half duration:        7.9000
+latitude:           -14.9000
+longitude:          167.1100
+depth:              114.4000
+Mrr:            1.386000E+26
+Mtt:            4.550000E+25
+Mpp:           -1.842000E+26
+Mrt:           -2.983000E+26
+Mrp:           -1.230000E+25
+Mtp:            2.451000E+26
+
+ PDE 2001 01 13 17 33 32.40   13.0500  -88.6600  60.0 7.7 7.8 EL SALVADOR
+event name:         C011301C
+time shift:          13.4000
+half duration:       20.6000
+latitude:            12.9700
+longitude:          -89.1300
+depth:               56.0000
+Mrr:           -4.239000E+27
+Mtt:            2.921000E+27
+Mpp:            1.318000E+27
+Mrt:            1.202000E+27
+Mrp:           -1.118000E+27
+Mtp:           -2.012000E+27
+
+ PDE 2001 01 26 03 16 40.50   23.4200   70.2300  16.0 7.6 8.0 SOUTHERN INDIA
+event name:         M012601A
+time shift:          14.4000
+half duration:       24.1000
+latitude:            23.6300
+longitude:           70.2400
+depth:               19.8000
+Mrr:            2.338000E+27
+Mtt:           -3.161000E+27
+Mpp:            8.230000E+26
+Mrt:            1.338000E+27
+Mrp:            1.386000E+27
+Mtp:            1.130000E+26
+
+ PDE 2001 02 13 19 28 30.30   -4.6800  102.5600  36.0 7.3 7.2 SOUTHERN SUMATRA, INDONESIA
+event name:         C021301D
+time shift:          14.8000
+half duration:       10.6000
+latitude:            -5.4000
+longitude:          102.3600
+depth:               21.2000
+Mrr:            5.973000E+26
+Mtt:           -3.774000E+26
+Mpp:           -2.199000E+26
+Mrt:            8.621000E+26
+Mrp:           -4.963000E+26
+Mtp:            3.048000E+26
+
+ PDE 2001 02 24 07 23 48.70    1.2700  126.2500  35.0 7.0 7.0 NORTHERN MOLUCCA SEA
+event name:         C022401A
+time shift:           9.1000
+half duration:        8.3000
+latitude:             1.5500
+longitude:          126.4200
+depth:               42.8000
+Mrr:            4.422000E+26
+Mtt:           -7.970000E+25
+Mpp:           -3.625000E+26
+Mrt:            8.070000E+25
+Mrp:            2.530000E+25
+Mtp:           -1.652000E+26
+
+ PDE 2001 06 03 02 41 57.20  -29.6700 -178.6300 178.1 7.1 0.0 KERMADEC ISLANDS, NEW ZEALAND
+event name:         C060301A
+time shift:          12.5000
+half duration:        9.3000
+latitude:           -29.3700
+longitude:         -178.2300
+depth:              199.3000
+Mrr:            3.985000E+26
+Mtt:            9.980000E+25
+Mpp:           -4.983000E+26
+Mrt:           -1.731000E+26
+Mrp:            2.962000E+26
+Mtp:           -2.263000E+26
+
+ PDE 2001 06 23 20 33 14.10  -16.2600  -73.6400  33.0 8.4 8.2 NEAR COAST OF PERU
+event name:         M062301E
+time shift:          69.2000
+half duration:       43.2000
+latitude:           -17.2800
+longitude:          -72.7100
+depth:               29.6000
+Mrr:            2.245000E+28
+Mtt:           -5.470000E+27
+Mpp:           -1.698000E+28
+Mrt:            1.339000E+28
+Mrp:           -3.728000E+28
+Mtp:            1.444000E+28
+
+ PDE 2001 07 07 09 38 43.50  -17.5400  -72.0800  33.0 7.6 7.3 NEAR COAST OF PERU
+event name:         C070701F
+time shift:          18.3000
+half duration:       14.0000
+latitude:           -17.4500
+longitude:          -72.4500
+depth:               25.0000
+Mrr:            1.138000E+27
+Mtt:           -2.100000E+26
+Mpp:           -9.280000E+26
+Mrt:            6.770000E+26
+Mrp:           -2.845000E+27
+Mtp:            7.710000E+26
+
+ PDE 2001 08 21 06 52 06.20  -36.8100 -179.5700  33.0 7.1 7.1 EAST OF NORTH ISLAND, N.Z.
+event name:         C082101B
+time shift:           8.1000
+half duration:       10.2000
+latitude:           -36.7000
+longitude:         -179.0800
+depth:               59.0000
+Mrr:            4.655000E+26
+Mtt:           -1.746000E+26
+Mpp:           -2.909000E+26
+Mrt:            6.390000E+25
+Mrp:           -1.674000E+26
+Mtp:           -2.621000E+26
+
+ PDE 2001 10 19 03 28 44.50   -4.1000  123.9100  33.0 7.5 7.3 BANDA SEA
+event name:         C101901A
+time shift:          13.5000
+half duration:       13.6000
+latitude:            -4.3100
+longitude:          124.1100
+depth:               18.8000
+Mrr:            1.700000E+25
+Mtt:           -1.150000E+26
+Mpp:            9.800000E+25
+Mrt:            4.240000E+26
+Mrp:            1.640000E+26
+Mtp:            1.797000E+27
+
+ PDE 2001 11 14 09 26 10.00   35.9500   90.5400  10.0 7.8 8.0 QINGHAI, CHINA
+event name:         M111401B
+time shift:          65.9000
+half duration:       25.8000
+latitude:            35.8000
+longitude:           92.9100
+depth:               15.0000
+Mrr:           -5.840000E+26
+Mtt:            1.650000E+27
+Mpp:           -1.067000E+27
+Mrt:           -8.240000E+26
+Mrp:            3.092000E+27
+Mtp:            4.776000E+27
+
+ PDE 2001 12 12 14 02 35.00  -42.8100  124.6900  10.0 7.0 6.7 SOUTH OF AUSTRALIA
+event name:         C121201C
+time shift:          14.8000
+half duration:        8.4000
+latitude:           -42.6900
+longitude:          124.6700
+depth:               16.0000
+Mrr:            2.420000E+26
+Mtt:            5.360000E+25
+Mpp:           -2.956000E+26
+Mrt:           -3.250000E+25
+Mrp:           -1.360000E+25
+Mtp:           -4.386000E+26
+
+ PDE 2002 01 02 17 22 48.80  -17.6000  167.8600  21.0 7.2 7.5 VANUATU ISLANDS
+event name:         C010202F
+time shift:          17.5000
+half duration:       11.2000
+latitude:           -17.7800
+longitude:          167.8500
+depth:               40.0000
+Mrr:            2.244000E+26
+Mtt:           -7.680000E+25
+Mpp:           -1.475000E+26
+Mrt:           -1.973000E+26
+Mrp:           -7.028000E+26
+Mtp:            2.083000E+26
+
+ PDE 2002 03 03 12 08 07.80   36.4300   70.4400 209.0 7.3 0.0 HINDU KUSH REGION, AFGHANISTAN
+event name:         C030302C
+time shift:          15.8000
+half duration:       10.5000
+latitude:            36.5700
+longitude:           70.4200
+depth:              228.5000
+Mrr:            8.998000E+26
+Mtt:           -8.160000E+26
+Mpp:           -8.390000E+25
+Mrt:            8.617000E+26
+Mrp:           -2.964000E+26
+Mtp:            2.048000E+26
+
+ PDE 2002 03 05 21 16 09.10    6.0300  124.2500  31.0 7.5 7.2 MINDANAO, PHILIPPINES
+event name:         C030502H
+time shift:          14.2000
+half duration:       12.9000
+latitude:             5.9200
+longitude:          124.2500
+depth:               28.7000
+Mrr:            1.328000E+27
+Mtt:           -3.560000E+26
+Mpp:           -9.720000E+26
+Mrt:            4.460000E+26
+Mrp:           -1.256000E+27
+Mtp:            7.660000E+26
+
+ PDE 2002 03 31 06 52 50.50   24.2800  122.1800  32.8 7.1 7.4 TAIWAN REGION
+event name:         C033102A
+time shift:           9.5000
+half duration:       10.1000
+latitude:            24.1900
+longitude:          121.9600
+depth:               39.0000
+Mrr:            3.991000E+26
+Mtt:           -4.829000E+26
+Mpp:            8.380000E+25
+Mrt:            2.864000E+26
+Mrp:            1.252000E+26
+Mtp:            3.260000E+25
+
+ PDE 2002 04 26 16 06 07.00   13.0900  144.6200  85.7 7.0 0.0 MARIANA ISLANDS
+event name:         C042602G
+time shift:           6.9000
+half duration:        8.2000
+latitude:            13.1500
+longitude:          144.6700
+depth:               69.1000
+Mrr:            2.940000E+25
+Mtt:            2.030000E+25
+Mpp:           -4.970000E+25
+Mrt:            4.071000E+26
+Mrp:            1.359000E+26
+Mtp:            3.000000E+23
+
+ PDE 2002 06 28 17 19 30.30   43.7500  130.6700 566.0 7.3 0.0 E. RUSSIA-N.E. CHINA BORDER REG.
+event name:         C062802B
+time shift:           9.8000
+half duration:       10.9000
+latitude:            43.7400
+longitude:          130.4500
+depth:              581.5000
+Mrr:            5.728000E+26
+Mtt:           -2.194000E+26
+Mpp:           -3.535000E+26
+Mrt:           -1.693000E+26
+Mrp:           -9.871000E+26
+Mtp:           -9.690000E+25
+
+ PDE 2002 08 19 11 01 01.20  -21.7000 -179.5100 580.0 7.6 0.0 FIJI ISLANDS REGION
+event name:         C081902A
+time shift:          13.4000
+half duration:       16.5000
+latitude:           -21.7400
+longitude:         -179.0800
+depth:              630.9000
+Mrr:           -1.695000E+27
+Mtt:           -1.540000E+26
+Mpp:            1.849000E+27
+Mrt:           -1.477000E+27
+Mrp:           -2.569000E+27
+Mtp:           -3.860000E+26
+
+ PDE 2002 08 19 11 08 24.30  -23.8800  178.4900 675.4 7.7 0.0 SOUTH OF FIJI ISLANDS
+event name:         C081902C
+time shift:          10.7000
+half duration:       17.9000
+latitude:           -24.1600
+longitude:          178.4900
+depth:              699.3000
+Mrr:            5.790000E+26
+Mtt:           -2.470000E+26
+Mpp:           -3.320000E+26
+Mrt:           -3.547000E+27
+Mrp:           -2.315000E+27
+Mtp:            3.500000E+25
+
+ PDE 2002 09 08 18 44 23.70   -3.3000  142.9500  13.0 7.6 7.8 NEAR N COAST OF NEW GUINEA, PNG.
+event name:         C090802H
+time shift:          14.6000
+half duration:       18.4000
+latitude:            -3.2700
+longitude:          143.3800
+depth:               19.5000
+Mrr:            1.823000E+27
+Mtt:           -1.014000E+27
+Mpp:           -8.090000E+26
+Mrt:           -2.660000E+26
+Mrp:            1.895000E+27
+Mtp:            1.575000E+27
+
+ PDE 2002 10 10 10 50 20.60   -1.7600  134.3000  10.0 7.5 7.7 IRIAN JAYA REGION, INDONESIA
+event name:         C101002E
+time shift:          21.3000
+half duration:       15.1000
+latitude:            -1.7900
+longitude:          134.3000
+depth:               15.0000
+Mrr:           -4.570000E+26
+Mtt:           -2.005000E+27
+Mpp:            2.461000E+27
+Mrt:            5.300000E+25
+Mrp:            4.840000E+26
+Mtp:            1.235000E+27
+
+ PDE 2002 11 02 01 26 10.70    2.8200   96.0800  30.0 7.2 7.6 NORTHERN SUMATRA, INDONESIA
+event name:         C110202B
+time shift:          15.2000
+half duration:       12.4000
+latitude:             2.6500
+longitude:           95.9900
+depth:               23.0000
+Mrr:            4.544000E+26
+Mtt:           -3.014000E+26
+Mpp:           -1.530000E+26
+Mrt:            5.354000E+26
+Mrp:           -5.630000E+26
+Mtp:            2.203000E+26
+
+ PDE 2002 11 03 22 12 41.00   63.5200 -147.4400   4.9 7.8 8.5 CENTRAL ALASKA
+event name:         M110302J
+time shift:          47.0000
+half duration:       23.5000
+latitude:            63.2300
+longitude:         -144.8900
+depth:               15.0000
+Mrr:            5.130000E+26
+Mtt:           -6.038000E+27
+Mpp:            5.525000E+27
+Mrt:            1.830000E+26
+Mrp:            2.615000E+27
+Mtp:           -3.937000E+27
+
+ PDE 2002 11 17 04 53 53.50   47.8200  146.2100 459.1 7.3 7.3 NORTHWEST OF KURIL ISLANDS
+event name:         C111702C
+time shift:           6.9000
+half duration:       11.4000
+latitude:            47.8100
+longitude:          146.4500
+depth:              479.8000
+Mrr:            1.002000E+26
+Mtt:            1.684000E+26
+Mpp:           -2.686000E+26
+Mrt:           -2.904000E+26
+Mrp:           -9.896000E+26
+Mtp:            2.310000E+25
+
+ PDE 2003 01 20 08 43 06.10  -10.4900  160.7700  33.0 7.2 7.8 SOLOMON ISLANDS
+event name:         C012003B
+time shift:          10.0000
+half duration:       10.3000
+latitude:           -10.4300
+longitude:          160.6300
+depth:               31.0000
+Mrr:            5.480000E+26
+Mtt:           -3.600000E+25
+Mpp:           -5.120000E+26
+Mrt:           -3.840000E+26
+Mrp:           -2.400000E+26
+Mtp:            6.210000E+26
+
+ PDE 2003 01 22 02 06 34.60   18.7700 -104.1000  24.0 7.5 7.6 NEAR COAST OF JALISCO, MEXICO
+event name:         C012203A
+time shift:          14.3000
+half duration:       11.9000
+latitude:            18.8600
+longitude:         -103.9000
+depth:               26.0000
+Mrr:            7.940000E+26
+Mtt:           -6.170000E+26
+Mpp:           -1.770000E+26
+Mrt:            1.810000E+27
+Mrp:           -5.370000E+26
+Mtp:            3.360000E+26
+
+ PDE 2003 03 17 16 36 17.30   51.2700  177.9800  33.0 7.0 6.7 RAT ISLANDS, ALEUTIAN ISLANDS
+event name:         C031703E
+time shift:           9.4000
+half duration:        7.8000
+latitude:            51.3300
+longitude:          177.5800
+depth:               27.0000
+Mrr:            1.900000E+26
+Mtt:           -2.580000E+26
+Mpp:            6.790000E+25
+Mrt:            2.900000E+26
+Mrp:            1.940000E+26
+Mtp:           -4.640000E+25
+
+ PDE 2003 06 20 06 19 38.90   -7.6100  -71.7200 558.1 7.0 0.0 WESTERN BRAZIL
+event name:         C062003D
+time shift:           8.5000
+half duration:        7.9000
+latitude:            -7.3700
+longitude:          -71.8900
+depth:              556.2000
+Mrr:           -4.040000E+26
+Mtt:            4.620000E+25
+Mpp:            3.570000E+26
+Mrt:           -1.280000E+26
+Mrp:           -4.070000E+25
+Mtp:           -1.740000E+26
+
+ PDE 2003 07 15 20 27 50.50   -2.6000   68.3800  10.0 7.5 7.6 CARLSBERG RIDGE
+event name:         C071503F
+time shift:          47.1000
+half duration:       14.5000
+latitude:            -1.4200
+longitude:           69.4700
+depth:               15.0000
+Mrr:           -4.480000E+26
+Mtt:            2.440000E+27
+Mpp:           -1.990000E+27
+Mrt:           -8.090000E+26
+Mrp:           -5.420000E+26
+Mtp:            7.400000E+26
+
+ PDE 2003 08 04 04 37 20.10  -60.5300  -43.4100  10.0 7.6 7.5 SCOTIA SEA
+event name:         C080403C
+time shift:          22.4000
+half duration:       14.7000
+latitude:           -60.8000
+longitude:          -43.2100
+depth:               15.0000
+Mrr:           -1.040000E+27
+Mtt:            1.550000E+27
+Mpp:           -5.140000E+26
+Mrt:            6.470000E+26
+Mrp:            1.960000E+27
+Mtp:            1.150000E+27
+
+ PDE 2003 08 21 12 12 49.80  -45.1000  167.1400  28.0 7.2 7.5 SOUTH ISLAND, NEW ZEALAND
+event name:         C082103D
+time shift:           9.8000
+half duration:        9.5000
+latitude:           -45.0100
+longitude:          166.8700
+depth:               31.8000
+Mrr:            4.990000E+26
+Mtt:           -1.070000E+26
+Mpp:           -3.920000E+26
+Mrt:           -2.490000E+26
+Mrp:           -4.640000E+26
+Mtp:           -2.800000E+26
+
+ PDE 2003 09 25 19 50 06.40   41.8100  143.9100  27.0 8.3 8.1 HOKKAIDO, JAPAN REGION
+event name:         M092503C
+time shift:          31.8000
+half duration:       33.5000
+latitude:            42.2100
+longitude:          143.8400
+depth:               28.2000
+Mrr:            7.770000E+27
+Mtt:           -4.110000E+27
+Mpp:           -3.660000E+27
+Mrt:            1.320000E+28
+Mrp:            2.590000E+28
+Mtp:           -6.620000E+27
+
+ PDE 2003 09 25 21 08 00.00   41.7700  143.5900  33.0 7.3 7.4 HOKKAIDO, JAPAN REGION
+event name:         C092503K
+time shift:          19.5000
+half duration:       11.4000
+latitude:            41.7500
+longitude:          143.6200
+depth:               47.3000
+Mrr:            8.070000E+26
+Mtt:           -2.490000E+26
+Mpp:           -5.590000E+26
+Mrt:            5.760000E+26
+Mrp:            8.640000E+26
+Mtp:           -2.730000E+26
+
+ PDE 2003 09 27 11 33 25.10   50.0400   87.8100  16.0 7.2 7.5 SOUTHWESTERN SIBERIA, RUSSIA
+event name:         C092703F
+time shift:          11.1000
+half duration:       10.3000
+latitude:            50.0200
+longitude:           87.8600
+depth:               15.0000
+Mrr:            2.160000E+26
+Mtt:           -9.420000E+26
+Mpp:            7.260000E+26
+Mrt:            2.400000E+25
+Mrp:           -3.860000E+26
+Mtp:           -1.300000E+25
+
+ PDE 2003 11 17 06 43 06.80   51.1500  178.6500  33.0 7.8 7.2 RAT ISLANDS, ALEUTIAN ISLANDS
+event name:         C111703B
+time shift:          24.2000
+half duration:       19.5000
+latitude:            51.1400
+longitude:          177.8600
+depth:               21.7000
+Mrr:            2.590000E+27
+Mtt:           -3.080000E+27
+Mpp:            4.910000E+26
+Mrt:            4.000000E+27
+Mrp:            1.880000E+27
+Mtp:           -5.120000E+26
+
+ PDE 2003 12 27 16 00 59.50  -22.0100  169.7700  10.0 7.2 7.1 SOUTHEAST OF LOYALTY ISLANDS
+event name:         C122703G
+time shift:          22.3000
+half duration:       10.3000
+latitude:           -21.9900
+longitude:          169.8100
+depth:               23.0000
+Mrr:            7.860000E+26
+Mtt:           -2.960000E+26
+Mpp:           -4.900000E+26
+Mrt:            3.510000E+26
+Mrp:           -3.760000E+26
+Mtp:            4.060000E+26
+
+ PDE 2004 01 03 16 23 21.00  -22.2500  169.6800  22.0 7.1 7.1 SOUTHEAST OF LOYALTY ISLANDS
+event name:         C010304J
+time shift:           9.7000
+half duration:        8.8000
+latitude:           -22.4100
+longitude:          169.7200
+depth:               15.0000
+Mrr:           -5.800000E+26
+Mtt:            3.760000E+26
+Mpp:            2.040000E+26
+Mrt:           -1.610000E+26
+Mrp:            3.600000E+24
+Mtp:           -2.600000E+26
+
+ PDE 2004 02 07 02 42 35.20   -4.0000  135.0200  10.0 7.3 7.5 IRIAN JAYA REGION, INDONESIA
+event name:         C020704A
+time shift:           8.5000
+half duration:       10.4000
+latitude:            -4.0300
+longitude:          134.7800
+depth:               12.0000
+Mrr:           -1.810000E+26
+Mtt:           -1.560000E+26
+Mpp:            3.380000E+26
+Mrt:            8.200000E+25
+Mrp:           -3.380000E+26
+Mtp:            8.720000E+26
+
+ PDE 2004 07 15 04 27 14.70  -17.6600 -178.7600 565.5 7.0 0.0 FIJI ISLANDS REGION
+event name:         C071504C
+time shift:           4.8000
+half duration:        8.2000
+latitude:           -17.6800
+longitude:         -178.5200
+depth:              577.2000
+Mrr:            3.280000E+26
+Mtt:           -1.420000E+26
+Mpp:           -1.870000E+26
+Mrt:            2.490000E+26
+Mrp:            5.420000E+25
+Mtp:            2.900000E+26
+
+ PDE 2004 07 25 14 35 19.10   -2.4300  103.9800 582.1 7.3 0.0 SOUTHERN SUMATRA, INDONESIA
+event name:         C072504B
+time shift:           6.3000
+half duration:       10.6000
+latitude:            -2.6800
+longitude:          104.3800
+depth:              600.5000
+Mrr:           -8.040000E+26
+Mtt:            4.630000E+26
+Mpp:            3.410000E+26
+Mrt:           -1.750000E+26
+Mrp:           -4.480000E+26
+Mtp:           -5.680000E+26
+
+ PDE 2004 09 05 10 07 07.80   33.0700  136.6200  14.0 7.2 7.0 NEAR S. COAST OF WESTERN HONSHU
+event name:         C090504A
+time shift:           8.2000
+half duration:        9.8000
+latitude:            32.9400
+longitude:          137.0000
+depth:               16.0000
+Mrr:            6.650000E+26
+Mtt:           -8.280000E+26
+Mpp:            1.630000E+26
+Mrt:            1.990000E+26
+Mrp:            5.600000E+25
+Mtp:            8.000000E+24
+
+ PDE 2004 09 05 14 57 18.60   33.1800  137.0700  10.0 7.4 7.1 NEAR S. COAST OF HONSHU, JAPAN
+event name:         C090504D
+time shift:          24.6000
+half duration:       12.0000
+latitude:            33.1300
+longitude:          137.2200
+depth:               12.0000
+Mrr:            1.110000E+27
+Mtt:           -1.770000E+27
+Mpp:            6.620000E+26
+Mrt:           -8.000000E+24
+Mrp:            1.050000E+26
+Mtp:            4.500000E+25
+
+ PDE 2004 11 11 21 26 41.20   -8.1500  124.8700  10.0 7.5 7.3 TIMOR REGION
+event name:         C111104M
+time shift:          16.8000
+half duration:       13.5000
+latitude:            -7.8700
+longitude:          125.1200
+depth:               17.0000
+Mrr:            1.600000E+27
+Mtt:           -1.590000E+27
+Mpp:           -4.000000E+24
+Mrt:           -1.340000E+27
+Mrp:            5.600000E+25
+Mtp:           -3.800000E+26
+
+ PDE 2004 11 15 09 06 56.60    4.7000  -77.5100  15.0 7.2 7.1 NEAR WEST COAST OF COLOMBIA
+event name:         C111504C
+time shift:           4.9000
+half duration:        9.7000
+latitude:             4.7200
+longitude:          -77.5700
+depth:               16.0000
+Mrr:            2.800000E+26
+Mtt:           -1.260000E+25
+Mpp:           -2.670000E+26
+Mrt:            5.310000E+25
+Mrp:           -7.030000E+26
+Mtp:           -4.570000E+25
+
+ PDE 2004 11 22 20 26 23.90  -46.6800  164.7200  10.0 7.1 7.1 OFF W. COAST OF S. ISLAND, N.Z.
+event name:         C112204C
+time shift:          11.1000
+half duration:        8.6000
+latitude:           -46.3600
+longitude:          164.9100
+depth:               40.0000
+Mrr:            5.070000E+26
+Mtt:           -1.580000E+26
+Mpp:           -3.490000E+26
+Mrt:           -4.210000E+25
+Mrp:           -1.830000E+26
+Mtp:           -2.710000E+26
+
+ PDE 2004 11 26 02 25 03.30   -3.6100  135.4000  10.0 7.1 7.2 IRIAN JAYA REGION, INDONESIA
+event name:         C112604A
+time shift:           8.9000
+half duration:        8.2000
+latitude:            -3.5500
+longitude:          135.5400
+depth:               12.0000
+Mrr:           -2.600000E+24
+Mtt:           -8.370000E+25
+Mpp:            8.640000E+25
+Mrt:           -4.580000E+26
+Mrp:           -9.700000E+24
+Mtp:           -2.950000E+26
+
+ PDE 2004 12 23 14 59 04.40  -49.3100  161.3500  10.0 8.1 7.7 NORTH OF MACQUARIE ISLAND
+event name:         M122304A
+time shift:          26.5000
+half duration:       26.7000
+latitude:           -49.9100
+longitude:          161.2500
+depth:               27.5000
+Mrr:            1.080000E+27
+Mtt:            8.740000E+27
+Mpp:           -9.820000E+27
+Mrt:            4.880000E+27
+Mrp:           -3.170000E+27
+Mtp:           -1.210000E+28
+
+ PDE 2004 12 26 00 58 50.00    3.3000   95.7800  10.0 9.0 8.9 OFF W COAST OF NORTHERN SUMATRA
+event name:         M122604A
+time shift:         139.0000
+half duration:       95.0000
+latitude:             3.0900
+longitude:           94.2600
+depth:               28.6000
+Mrr:            1.040000E+29
+Mtt:           -4.270000E+28
+Mpp:           -6.100000E+28
+Mrt:            2.980000E+29
+Mrp:           -2.400000E+29
+Mtp:            4.260000E+28
+
+ PDE 2004 12 26 04 21 29.80    6.9100   92.9600  39.2 7.2 7.5 NICOBAR ISLANDS, INDIA REGION
+event name:         C122604B
+time shift:           6.7000
+half duration:       11.4000
+latitude:             6.6100
+longitude:           92.7900
+depth:               13.6000
+Mrr:            5.260000E+26
+Mtt:           -8.430000E+25
+Mpp:           -4.410000E+26
+Mrt:            3.950000E+26
+Mrp:           -2.910000E+26
+Mtp:            2.100000E+26
+
+ PDE 2005 02 05 12 23 18.90    5.2900  123.3400 525.0 7.1 0.0 MINDANAO, PHILIPPINES
+event name:   C200502051223A
+time shift:           4.7000
+half duration:        8.5000
+latitude:             5.4700
+longitude:          123.6700
+depth:              530.6000
+Mrr:           -2.350000E+26
+Mtt:            9.400000E+24
+Mpp:            2.260000E+26
+Mrt:           -3.800000E+25
+Mrp:           -4.660000E+26
+Mtp:           -4.230000E+25
+
+ PDE 2005 03 02 10 42 12.20   -6.5300  129.9300 201.7 7.1 0.0 BANDA SEA
+event name:   C200503021042A
+time shift:           4.7000
+half duration:        8.7000
+latitude:            -6.5400
+longitude:          129.9900
+depth:              196.1000
+Mrr:            3.370000E+25
+Mtt:           -3.430000E+26
+Mpp:            3.100000E+26
+Mrt:            2.970000E+26
+Mrp:            3.600000E+26
+Mtp:           -5.950000E+25
+
+ PDE 2005 03 28 16 09 36.50    2.0900   97.1100  30.0 8.6 8.4 NORTHERN SUMATRA, INDONESIA
+event name:   C200503281609A
+time shift:          55.0000
+half duration:       49.4000
+latitude:             1.6700
+longitude:           97.0700
+depth:               25.8000
+Mrr:            2.660000E+28
+Mtt:           -1.140000E+28
+Mpp:           -1.530000E+28
+Mrt:            8.390000E+28
+Mrp:           -5.680000E+28
+Mtp:            1.480000E+28
+
+ PDE 2005 06 13 22 44 33.90  -19.9900  -69.2000 115.6 7.8 0.0 NORTHERN CHILE
+event name:   C200506132244A
+time shift:           6.3000
+half duration:       18.3000
+latitude:           -20.0200
+longitude:          -69.2300
+depth:               94.5000
+Mrr:           -3.700000E+27
+Mtt:           -2.720000E+26
+Mpp:            3.970000E+27
+Mrt:            6.150000E+26
+Mrp:           -3.630000E+27
+Mtp:           -2.360000E+26
+
+ PDE 2005 06 15 02 50 53.20   41.3000 -125.9700  10.0 7.2 7.1 OFF COAST OF NORTHERN CALIFORNIA
+event name:   C200506150250A
+time shift:          12.2000
+half duration:        9.9000
+latitude:            41.1500
+longitude:         -126.4200
+depth:               20.4000
+Mrr:            1.300000E+25
+Mtt:           -8.270000E+26
+Mpp:            8.140000E+26
+Mrt:            2.600000E+25
+Mrp:            1.140000E+26
+Mtp:            5.100000E+25
+
+ PDE 2005 07 24 15 42 06.20    7.9200   92.1900  16.0 7.2 7.5 NICOBAR ISLANDS, INDIA REGION
+event name:   C200507241542A
+time shift:          10.0000
+half duration:       10.1000
+latitude:             7.9200
+longitude:           91.8800
+depth:               12.0000
+Mrr:            1.900000E+25
+Mtt:           -7.200000E+26
+Mpp:            7.020000E+26
+Mrt:           -3.120000E+26
+Mrp:            1.290000E+26
+Mtp:           -4.130000E+26
+
+ PDE 2005 08 16 02 46 28.40   38.2800  142.0400  36.0 7.2 6.8 NEAR EAST COAST OF HONSHU, JAPAN
+event name:   C200508160246A
+time shift:          11.9000
+half duration:        9.4000
+latitude:            38.2400
+longitude:          142.0500
+depth:               37.0000
+Mrr:            3.960000E+26
+Mtt:           -2.810000E+25
+Mpp:           -3.680000E+26
+Mrt:            2.680000E+26
+Mrp:            5.900000E+26
+Mtp:           -1.320000E+26
+
+ PDE 2005 09 09 07 26 43.70   -4.5400  153.4700  90.0 7.6 0.0 NEW IRELAND REGION, P.N.G.
+event name:   C200509090726A
+time shift:          29.1000
+half duration:       16.2000
+latitude:            -5.2000
+longitude:          153.9500
+depth:               83.6000
+Mrr:            3.130000E+27
+Mtt:           -1.320000E+27
+Mpp:           -1.820000E+27
+Mrt:           -1.250000E+27
+Mrp:            1.380000E+27
+Mtp:            1.600000E+27
+
+ PDE 2005 09 26 01 55 37.70   -5.6800  -76.4000 115.0 7.5 0.0 NORTHERN PERU
+event name:   C200509260155A
+time shift:           6.3000
+half duration:       13.6000
+latitude:            -5.6000
+longitude:          -76.2000
+depth:              108.1000
+Mrr:           -2.020000E+27
+Mtt:           -1.240000E+26
+Mpp:            2.150000E+27
+Mrt:           -4.900000E+25
+Mrp:            4.470000E+26
+Mtp:           -5.010000E+26
+
+ PDE 2005 10 08 03 50 40.80   34.5400   73.5900  26.0 7.6 7.7 PAKISTAN
+event name:   C200510080350A
+time shift:          10.7000
+half duration:       15.0000
+latitude:            34.3800
+longitude:           73.4700
+depth:               12.0000
+Mrr:            2.610000E+27
+Mtt:           -1.270000E+27
+Mpp:           -1.330000E+27
+Mrt:            1.430000E+27
+Mrp:            3.640000E+26
+Mtp:            1.260000E+27
+
+ PDE 2006 01 02 06 10 49.20  -60.9300  -21.5800  10.0 7.4 7.3 EAST OF SOUTH SANDWICH ISLANDS
+event name:   M200601020610A
+time shift:          14.1000
+half duration:       11.7000
+latitude:           -61.1200
+longitude:          -21.3900
+depth:               20.2000
+Mrr:           -2.430000E+26
+Mtt:           -3.700000E+25
+Mpp:            2.800000E+26
+Mrt:            2.670000E+26
+Mrp:           -2.130000E+26
+Mtp:            1.310000E+27
+
+ PDE 2006 01 02 22 13 40.50  -19.9300 -178.1800 582.9 7.2 0.0 FIJI ISLANDS REGION
+event name:   M200601022213A
+time shift:           4.0000
+half duration:        9.3000
+latitude:           -19.8000
+longitude:         -177.7200
+depth:              589.5000
+Mrr:           -3.930000E+26
+Mtt:            3.710000E+26
+Mpp:            2.270000E+25
+Mrt:           -3.530000E+26
+Mrp:           -5.000000E+26
+Mtp:           -2.770000E+25
+
+ PDE 2006 01 27 16 58 53.70   -5.4700  128.1300 397.0 7.6 0.0 BANDA SEA
+event name:   M200601271658A
+time shift:          11.1000
+half duration:       16.0000
+latitude:            -5.6100
+longitude:          128.2000
+depth:              397.4000
+Mrr:           -2.420000E+27
+Mtt:           -6.160000E+26
+Mpp:            3.040000E+27
+Mrt:           -1.170000E+27
+Mrp:            1.490000E+27
+Mtp:            1.120000E+27
+
+ PDE 2006 02 22 22 19 07.80  -21.3200   33.5800  11.0 7.0 7.5 MOZAMBIQUE
+event name:   C200602222219A
+time shift:           7.2000
+half duration:        7.9000
+latitude:           -21.2000
+longitude:           33.3300
+depth:               12.0000
+Mrr:           -2.830000E+26
+Mtt:           -2.120000E+25
+Mpp:            3.040000E+26
+Mrt:           -1.860000E+25
+Mrp:            2.640000E+26
+Mtp:           -1.380000E+26
+
+ PDE 2006 04 20 23 25 02.20   60.9500  167.0900  22.0 7.6 7.6 EASTERN SIBERIA, RUSSIA
+event name:   C200604202325A
+time shift:          15.4000
+half duration:       15.1000
+latitude:            60.8900
+longitude:          167.0500
+depth:               12.0000
+Mrr:            2.800000E+27
+Mtt:           -8.680000E+26
+Mpp:           -1.930000E+27
+Mrt:            6.600000E+26
+Mrp:            2.030000E+26
+Mtp:           -1.520000E+27
+
+ PDE 2006 05 03 15 26 40.30  -20.1900 -174.1200  55.0 8.0 7.9 TONGA ISLANDS
+event name:   C200605031527A
+time shift:          23.4000
+half duration:       23.5000
+latitude:           -20.3900
+longitude:         -173.4700
+depth:               67.8000
+Mrr:            6.600000E+27
+Mtt:           -1.250000E+27
+Mpp:           -5.350000E+27
+Mrt:            8.900000E+26
+Mrp:            8.750000E+27
+Mtp:           -3.280000E+27
+
+ PDE 2006 05 16 10 39 23.30  -31.7800 -179.3100 151.6 7.4 7.4 KERMADEC ISLANDS REGION
+event name:   C200605161039A
+time shift:          13.1000
+half duration:       12.7000
+latitude:           -31.4100
+longitude:         -178.9100
+depth:              151.1000
+Mrr:            1.070000E+27
+Mtt:           -5.000000E+26
+Mpp:           -5.680000E+26
+Mrt:           -3.080000E+26
+Mrp:            1.460000E+27
+Mtp:            3.730000E+26
+
+ PDE 2006 07 17 08 19 28.80   -9.2500  107.4100  34.0 7.7 7.7 SOUTH OF JAVA, INDONESIA
+event name:   M200607170819A
+time shift:          69.6000
+half duration:       13.9000
+latitude:           -10.2800
+longitude:          107.7800
+depth:               20.0000
+Mrr:            1.630000E+27
+Mtt:           -1.320000E+27
+Mpp:           -3.060000E+26
+Mrt:            4.310000E+27
+Mrp:           -5.760000E+26
+Mtp:            3.110000E+26
+
+ PDE 2006 11 15 11 14 17.80   46.5700  153.2900  38.9 8.3 8.3 KURIL ISLANDS
+event name:   M200611151114A
+time shift:          50.2000
+half duration:       34.4000
+latitude:            46.7100
+longitude:          154.3300
+depth:               13.5000
+Mrr:            1.740000E+28
+Mtt:           -5.550000E+27
+Mpp:           -1.180000E+28
+Mrt:            1.640000E+28
+Mrp:            2.580000E+28
+Mtp:           -7.710000E+27
+
+ PDE 2007 01 13 04 23 21.20   46.2400  154.5200  10.0 8.1 8.2 EAST OF KURIL ISLANDS
+event name:   C200701130423A
+time shift:          26.9000
+half duration:       27.4000
+latitude:            46.1700
+longitude:          154.8000
+depth:               12.0000
+Mrr:           -1.380000E+28
+Mtt:            1.330000E+28
+Mpp:            5.100000E+26
+Mrt:           -2.740000E+27
+Mrp:           -7.850000E+27
+Mtp:            7.980000E+27
+
+ PDE 2007 01 21 11 27 45.10    1.0700  126.2800  22.0 7.5 7.5 NORTHERN MOLUCCA SEA
+event name:   C200701211127A
+time shift:          15.9000
+half duration:       13.2000
+latitude:             1.1000
+longitude:          126.2100
+depth:               22.2000
+Mrr:            1.750000E+27
+Mtt:           -2.060000E+26
+Mpp:           -1.540000E+27
+Mrt:            4.000000E+25
+Mrp:           -8.030000E+26
+Mtp:           -7.170000E+26
+
+ PDE 2007 03 25 00 40 01.60  -20.6200  169.3600  34.0 7.1 7.1 VANUATU ISLANDS
+event name:   C200703250040A
+time shift:          11.4000
+half duration:        9.0000
+latitude:           -20.6000
+longitude:          169.1200
+depth:               41.2000
+Mrr:            5.830000E+26
+Mtt:           -1.020000E+26
+Mpp:           -4.800000E+26
+Mrt:            7.910000E+25
+Mrp:           -1.750000E+26
+Mtp:            2.490000E+26
+
+ PDE 2007 04 01 20 39 56.40   -8.4600  157.0400  10.0 8.1 8.1 SOLOMON ISLANDS
+event name:   C200704012039A
+time shift:          42.5000
+half duration:       26.3000
+latitude:            -7.7900
+longitude:          156.3400
+depth:               14.1000
+Mrr:            1.340000E+28
+Mtt:           -6.550000E+27
+Mpp:           -6.850000E+27
+Mrt:            7.560000E+27
+Mrp:            6.000000E+25
+Mtp:            7.370000E+27
+
+ PDE 2007 08 01 17 08 51.40  -15.6000  167.6800 120.0 7.2 7.2 VANUATU ISLANDS
+event name:   C200708011708A
+time shift:          12.1000
+half duration:        9.5000
+latitude:           -15.4100
+longitude:          167.4100
+depth:              126.0000
+Mrr:            6.060000E+26
+Mtt:            1.690000E+25
+Mpp:           -6.230000E+26
+Mrt:           -9.900000E+25
+Mrp:           -3.940000E+26
+Mtp:           -2.870000E+25
+
+ PDE 2007 08 08 17 04 57.80   -5.9300  107.6800 291.2 7.5 0.0 JAVA, INDONESIA
+event name:   C200708081704A
+time shift:          13.5000
+half duration:       14.4000
+latitude:            -6.0300
+longitude:          107.5800
+depth:              304.8000
+Mrr:            9.560000E+26
+Mtt:           -1.150000E+27
+Mpp:            1.940000E+26
+Mrt:            2.000000E+27
+Mrp:            6.510000E+26
+Mtp:            9.950000E+26
+
+ PDE 2007 08 15 23 40 57.90  -13.3900  -76.6000  39.0 8.0 8.0 NEAR COAST OF PERU
+event name:   C200708152340A
+time shift:          60.0000
+half duration:       23.5000
+latitude:           -13.7300
+longitude:          -77.0400
+depth:               33.8000
+Mrr:            8.470000E+27
+Mtt:           -1.310000E+27
+Mpp:           -7.160000E+27
+Mrt:           -2.000000E+26
+Mrp:           -7.170000E+27
+Mtp:            3.390000E+27
+
+ PDE 2007 09 02 01 05 18.10  -11.6100  165.7600  35.0 7.2 7.3 SANTA CRUZ ISLANDS
+event name:   C200709020105A
+time shift:          10.4000
+half duration:       10.1000
+latitude:           -11.7400
+longitude:          165.6800
+depth:               18.3000
+Mrr:            6.600000E+26
+Mtt:           -1.560000E+26
+Mpp:           -5.050000E+26
+Mrt:            3.690000E+26
+Mrp:           -5.100000E+26
+Mtp:            2.370000E+26
+
+ PDE 2007 09 12 11 10 26.80   -4.4400  101.3700  34.0 8.5 8.5 SOUTHERN SUMATRA, INDONESIA
+event name:   C200709121110A
+time shift:          48.8000
+half duration:       42.7000
+latitude:            -3.7800
+longitude:          100.9900
+depth:               24.4000
+Mrr:            1.800000E+28
+Mtt:           -8.870000E+27
+Mpp:           -9.160000E+27
+Mrt:            5.450000E+28
+Mrp:           -3.460000E+28
+Mtp:            9.680000E+27
+
+ PDE 2007 09 12 23 49 03.70   -2.6200  100.8400  35.0 7.9 8.1 SOUTHERN SUMATRA, INDONESIA
+event name:   C200709122348A
+time shift:          31.6000
+half duration:       21.1000
+latitude:            -2.4600
+longitude:          100.1300
+depth:               43.1000
+Mrr:            4.930000E+27
+Mtt:           -2.800000E+27
+Mpp:           -2.120000E+27
+Mrt:            5.410000E+27
+Mrp:           -3.530000E+27
+Mtp:            2.470000E+27
+
+ PDE 2007 09 13 03 35 28.70   -2.1300   99.6300  22.0 7.0 7.2 SOUTHERN SUMATRA, INDONESIA
+event name:   C200709130335A
+time shift:           8.2000
+half duration:        8.2000
+latitude:            -2.3100
+longitude:           99.3900
+depth:               17.0000
+Mrr:            1.500000E+26
+Mtt:           -8.520000E+25
+Mpp:           -6.530000E+25
+Mrt:            3.320000E+26
+Mrp:           -2.960000E+26
+Mtp:            8.980000E+25
+
+ PDE 2007 09 28 13 38 59.50   22.0000  142.6500 276.1 7.5 7.4 VOLCANO ISLANDS, JAPAN REGION
+event name:   C200709281338A
+time shift:           4.4000
+half duration:       13.2000
+latitude:            21.9400
+longitude:          143.0700
+depth:              275.8000
+Mrr:            1.530000E+27
+Mtt:           -1.880000E+27
+Mpp:            3.490000E+26
+Mrt:           -5.100000E+25
+Mrp:            9.210000E+26
+Mtp:            3.620000E+26
+
+ PDE 2007 09 30 05 23 34.10  -49.2700  164.1200  10.0 7.4 7.4 AUCKLAND ISLANDS, N.Z. REGION
+event name:   C200709300523A
+time shift:          17.4000
+half duration:       12.3000
+latitude:           -49.2600
+longitude:          164.1000
+depth:               12.6000
+Mrr:            1.330000E+27
+Mtt:           -1.600000E+25
+Mpp:           -1.320000E+27
+Mrt:            4.860000E+26
+Mrp:           -7.160000E+26
+Mtp:           -2.640000E+26
+
+ PDE 2007 10 31 03 30 17.70   18.9000  145.3600 223.2 7.2 7.2 MARIANA ISLANDS
+event name:   C200710310330A
+time shift:           7.8000
+half duration:       10.2000
+latitude:            18.8300
+longitude:          145.5900
+depth:              211.0000
+Mrr:            3.820000E+26
+Mtt:            3.390000E+26
+Mpp:           -7.210000E+26
+Mrt:           -4.550000E+26
+Mrp:           -1.040000E+26
+Mtp:            5.040000E+26
+
+ PDE 2007 11 14 15 40 50.50  -22.2500  -69.8900  40.0 7.7 7.7 NORTHERN CHILE
+event name:   C200711141540A
+time shift:          20.7000
+half duration:       17.7000
+latitude:           -22.6400
+longitude:          -70.6200
+depth:               37.6000
+Mrr:            2.960000E+27
+Mtt:            4.200000E+25
+Mpp:           -3.000000E+27
+Mrt:            7.350000E+26
+Mrp:           -3.630000E+27
+Mtp:            3.370000E+26
+
+ PDE 2007 11 29 19 00 19.60   14.9700  -61.2600 147.5 7.4 7.4 WINDWARD ISLANDS
+event name:   C200711291900A
+time shift:          13.0000
+half duration:       12.2000
+latitude:            15.0600
+longitude:          -61.4100
+depth:              147.9000
+Mrr:           -4.860000E+26
+Mtt:            9.910000E+26
+Mpp:           -5.050000E+26
+Mrt:           -3.630000E+26
+Mrp:            1.420000E+27
+Mtp:            4.380000E+26
+
+ PDE 2007 12 09 07 28 20.80  -26.0000 -177.5100 152.5 7.8 7.8 SOUTH OF FIJI ISLANDS
+event name:   C200712090728A
+time shift:          17.1000
+half duration:       20.2000
+latitude:           -25.7500
+longitude:         -177.2200
+depth:              149.9000
+Mrr:            2.520000E+27
+Mtt:           -4.340000E+27
+Mpp:            1.830000E+27
+Mrt:           -5.690000E+27
+Mrp:           -5.340000E+26
+Mtp:           -2.710000E+27
+
+ PDE 2007 12 19 09 30 27.30   51.3600 -179.5200  29.4 7.2 7.1 ANDREANOF ISLANDS, ALEUTIAN IS.
+event name:   C200712190930A
+time shift:          10.0000
+half duration:        9.4000
+latitude:            51.0200
+longitude:         -179.2700
+depth:               27.6000
+Mrr:            4.150000E+26
+Mtt:           -4.410000E+26
+Mpp:            2.570000E+25
+Mrt:            4.960000E+26
+Mrp:            2.820000E+26
+Mtp:           -1.020000E+26
+
+ PDE 2008 02 20 08 08 30.50    2.7700   95.9600  26.0 7.3 7.5 OFF W COAST OF NORTHERN SUMATRA
+event name:   C200802200808A
+time shift:          14.9000
+half duration:       12.6000
+latitude:             2.6900
+longitude:           95.9800
+depth:               14.9000
+Mrr:            4.280000E+26
+Mtt:           -2.920000E+26
+Mpp:           -1.360000E+26
+Mrt:            7.900000E+26
+Mrp:           -6.640000E+26
+Mtp:            2.050000E+26
+
+ PDE 2008 02 25 08 36 33.00   -2.4900   99.9700  25.0 7.2 7.3 SOUTHERN SUMATRA, INDONESIA
+event name:   C200802250836A
+time shift:           9.4000
+half duration:        9.1000
+latitude:            -2.6600
+longitude:           99.9500
+depth:               14.4000
+Mrr:            1.520000E+26
+Mtt:           -8.910000E+25
+Mpp:           -6.260000E+25
+Mrt:            6.300000E+26
+Mrp:           -4.280000E+26
+Mtp:            7.960000E+25
+
+ PDE 2008 03 20 22 32 57.90   35.4900   81.4700  10.0 7.1 7.3 SOUTHERN XINJIANG, CHINA
+event name:   C200803202233A
+time shift:          14.2000
+half duration:        8.6000
+latitude:            35.4300
+longitude:           81.3700
+depth:               12.0000
+Mrr:           -4.920000E+26
+Mtt:           -3.630000E+25
+Mpp:            5.290000E+26
+Mrt:            1.250000E+26
+Mrp:            8.230000E+25
+Mtp:            1.090000E+26
+
+ PDE 2008 04 09 12 46 12.70  -20.0700  168.8900  33.0 7.3 7.3 LOYALTY ISLANDS
+event name:   C200804091246A
+time shift:          11.1000
+half duration:       10.9000
+latitude:           -20.1200
+longitude:          168.8000
+depth:               35.2000
+Mrr:            9.440000E+26
+Mtt:           -1.600000E+26
+Mpp:           -7.840000E+26
+Mrt:            3.640000E+26
+Mrp:           -4.730000E+26
+Mtp:            4.030000E+26
+
+ PDE 2008 04 12 00 30 12.60  -55.6600  158.4500  16.0 7.1 7.1 MACQUARIE ISLAND REGION
+event name:   C200804120030A
+time shift:           8.6000
+half duration:        8.6000
+latitude:           -55.5600
+longitude:          158.4900
+depth:               22.0000
+Mrr:            5.420000E+26
+Mtt:            1.000000E+23
+Mpp:           -5.420000E+26
+Mrt:            8.600000E+25
+Mrp:           -3.610000E+25
+Mtp:            4.930000E+25
+
+ PDE 2008 05 12 06 28 01.60   31.0000  103.3200  19.0 7.9 8.1 SICHUAN, CHINA
+event name:   C200805120628A
+time shift:          38.8000
+half duration:       21.8000
+latitude:            31.4400
+longitude:          104.1000
+depth:               12.8000
+Mrr:            5.690000E+27
+Mtt:            1.000000E+26
+Mpp:           -5.790000E+27
+Mrt:           -1.990000E+27
+Mrp:            5.610000E+27
+Mtp:           -3.480000E+27
+
+ PDE 2008 07 05 02 12 04.50   53.8800  152.8900 632.8 7.7 7.7 SEA OF OKHOTSK
+event name:   C200807050212A
+time shift:           9.7000
+half duration:       17.3000
+latitude:            54.1200
+longitude:          153.3700
+depth:              610.8000
+Mrr:           -3.260000E+27
+Mtt:           -7.730000E+26
+Mpp:            4.030000E+27
+Mrt:           -2.180000E+27
+Mrp:           -1.000000E+27
+Mtp:           -8.510000E+26
+
+ PDE 2008 09 29 15 19 31.60  -29.7600 -177.6800  36.0 7.0 7.0 KERMADEC ISLANDS, NEW ZEALAND
+event name:   C200809291519A
+time shift:          11.3000
+half duration:        8.0000
+latitude:           -29.8500
+longitude:         -177.4600
+depth:               51.1000
+Mrr:            3.950000E+26
+Mtt:           -2.280000E+25
+Mpp:           -3.720000E+26
+Mrt:            4.640000E+25
+Mrp:            1.930000E+26
+Mtp:           -1.100000E+26
+
+ PDE 2008 11 16 17 02 32.70    1.2700  122.0900  30.0 7.3 7.3 MINAHASSA PENINSULA, SULAWESI
+event name:   C200811161702A
+time shift:          11.1000
+half duration:       11.5000
+latitude:             1.5000
+longitude:          122.0500
+depth:               29.2000
+Mrr:            8.250000E+26
+Mtt:           -8.550000E+26
+Mpp:            3.000000E+25
+Mrt:           -9.940000E+26
+Mrp:            1.500000E+26
+Mtp:            7.700000E+25
+
+ PDE 2008 11 24 09 02 58.80   54.2000  154.3200 492.3 7.3 7.3 SEA OF OKHOTSK
+event name:   C200811240902A
+time shift:          10.7000
+half duration:       10.9000
+latitude:            54.2700
+longitude:          154.7100
+depth:              502.3000
+Mrr:           -3.900000E+26
+Mtt:            4.500000E+26
+Mpp:           -6.000000E+25
+Mrt:           -4.730000E+26
+Mrp:           -9.100000E+26
+Mtp:            1.690000E+26
+
+ PDE 2009 01 03 19 43 50.70   -0.4100  132.8800  17.0 7.7 7.6 IRIAN JAYA REGION, INDONESIA
+event name:   C200901031943A
+time shift:          18.3000
+half duration:       16.6000
+latitude:            -0.3800
+longitude:          132.8300
+depth:               15.2000
+Mrr:            2.200000E+27
+Mtt:           -1.810000E+27
+Mpp:           -3.850000E+26
+Mrt:           -1.520000E+27
+Mrp:            2.790000E+27
+Mtp:            1.170000E+27
+
+ PDE 2009 01 03 22 33 40.30   -0.6900  133.3000  23.0 7.4 7.4 IRIAN JAYA REGION, INDONESIA
+event name:   C200901032233A
+time shift:           4.6000
+half duration:       11.8000
+latitude:            -0.5800
+longitude:          133.4800
+depth:               18.2000
+Mrr:            1.040000E+27
+Mtt:           -9.490000E+26
+Mpp:           -9.500000E+25
+Mrt:           -7.560000E+26
+Mrp:            5.370000E+26
+Mtp:            3.790000E+26
+
+ PDE 2009 01 15 17 49 39.10   46.8600  155.1500  36.0 7.4 7.5 EAST OF KURIL ISLANDS
+event name:   C200901151749A
+time shift:           9.2000
+half duration:       12.0000
+latitude:            46.9700
+longitude:          155.3900
+depth:               45.2000
+Mrr:            1.410000E+27
+Mtt:            4.500000E+25
+Mpp:           -1.450000E+27
+Mrt:           -1.140000E+26
+Mrp:           -4.600000E+25
+Mtp:           -4.520000E+26
+
+ PDE 2009 02 11 17 34 50.80    3.8800  126.4000  22.0 7.1 7.2 TALAUD ISLANDS, INDONESIA
+event name:   C200902111734A
+time shift:          10.4000
+half duration:        8.8000
+latitude:             3.9200
+longitude:          126.8100
+depth:               23.9000
+Mrr:            5.760000E+26
+Mtt:           -1.790000E+25
+Mpp:           -5.580000E+26
+Mrt:            5.260000E+25
+Mrp:            1.500000E+26
+Mtp:           -1.140000E+25
+
+ PDE 2009 03 19 18 17 40.90  -23.0500 -174.6600  34.0 7.6 7.6 TONGA ISLANDS REGION
+event name:   C200903191817A
+time shift:          12.3000
+half duration:       15.8000
+latitude:           -23.0800
+longitude:         -174.2300
+depth:               49.1000
+Mrr:            3.280000E+27
+Mtt:           -1.960000E+26
+Mpp:           -3.090000E+27
+Mrt:           -2.450000E+26
+Mrp:            1.900000E+26
+Mtp:           -1.150000E+27
+
+ PDE 2009 05 28 08 24 45.10   16.7200  -86.2300  10.0 7.3 7.3 NORTH OF HONDURAS
+event name:   C200905280824A
+time shift:          19.8000
+half duration:       11.3000
+latitude:            16.5000
+longitude:          -87.1700
+depth:               12.0000
+Mrr:           -2.800000E+25
+Mtt:           -8.140000E+26
+Mpp:            8.410000E+26
+Mrt:           -4.590000E+26
+Mrp:            5.080000E+26
+Mtp:            7.170000E+26
+
+ PDE 2009 07 15 09 22 29.00  -45.7600  166.5600  12.0 7.8 7.8 OFF W. COAST OF S. ISLAND, N.Z.
+event name:   C200907150922A
+time shift:          20.6000
+half duration:       18.9000
+latitude:           -45.8500
+longitude:          166.2600
+depth:               23.5000
+Mrr:            3.140000E+27
+Mtt:            7.590000E+26
+Mpp:           -3.900000E+27
+Mrt:            2.590000E+27
+Mrp:           -3.750000E+27
+Mtp:           -2.800000E+25
+
+ PDE 2009 08 09 10 55 55.60   33.1700  137.9400 297.0 7.1 7.1 NEAR S. COAST OF HONSHU, JAPAN
+event name:   C200908091055A
+time shift:           3.2000
+half duration:        8.3000
+latitude:            33.0500
+longitude:          138.1900
+depth:              301.8000
+Mrr:            3.410000E+25
+Mtt:            1.590000E+25
+Mpp:           -5.000000E+25
+Mrt:           -7.690000E+25
+Mrp:           -4.570000E+26
+Mtp:           -1.580000E+26
+
+ PDE 2009 08 10 19 55 35.60   14.1000   92.8900   4.7 7.5 7.6 ANDAMAN ISLANDS, INDIA REGION
+event name:   C200908101955A
+time shift:          29.4000
+half duration:       13.1000
+latitude:            14.1600
+longitude:           92.9400
+depth:               22.0000
+Mrr:           -1.510000E+27
+Mtt:            4.880000E+26
+Mpp:            1.030000E+27
+Mrt:            3.780000E+26
+Mrp:            4.330000E+26
+Mtp:            1.430000E+27
+
+ PDE 2009 09 29 17 48 11.00  -15.4900 -172.1000  18.0 8.1 8.1 SAMOA ISLANDS REGION
+event name:   C200909291748A
+time shift:          15.8000
+half duration:       26.8000
+latitude:           -15.1300
+longitude:         -171.9700
+depth:               12.0000
+Mrr:           -1.300000E+28
+Mtt:            5.220000E+27
+Mpp:            7.730000E+27
+Mrt:           -2.950000E+27
+Mrp:           -9.720000E+27
+Mtp:           -7.250000E+27
+
+ PDE 2009 09 30 10 16 09.20   -0.7200   99.8700  81.0 7.6 7.5 SOUTHERN SUMATRA, INDONESIA
+event name:   C200909301016A
+time shift:           8.2000
+half duration:       14.7000
+latitude:            -0.7900
+longitude:           99.6700
+depth:               77.8000
+Mrr:            1.760000E+27
+Mtt:           -7.650000E+26
+Mpp:           -9.920000E+26
+Mrt:            6.580000E+26
+Mrp:           -9.910000E+26
+Mtp:           -1.940000E+27
+
+ PDE 2009 10 07 22 03 14.50  -13.0100  166.5100  45.0 7.6 7.7 VANUATU ISLANDS
+event name:   C200910072203A
+time shift:          14.4000
+half duration:       15.6000
+latitude:           -12.5900
+longitude:          166.2700
+depth:               44.2000
+Mrr:            3.250000E+27
+Mtt:           -2.280000E+26
+Mpp:           -3.020000E+27
+Mrt:            6.000000E+24
+Mrp:           -5.140000E+26
+Mtp:            7.640000E+26
+
+ PDE 2009 10 07 22 18 51.20  -12.5200  166.3800  35.0 7.8 7.9 SANTA CRUZ ISLANDS
+event name:   C200910072218A
+time shift:          24.1000
+half duration:       19.8000
+latitude:           -11.8600
+longitude:          166.0100
+depth:               41.7000
+Mrr:            6.220000E+27
+Mtt:           -4.750000E+26
+Mpp:           -5.750000E+27
+Mrt:            1.050000E+26
+Mrp:           -2.240000E+27
+Mtp:            1.850000E+27
+
+ PDE 2009 10 07 23 13 48.20  -13.0900  166.5000  31.1 7.4 7.4 VANUATU ISLANDS
+event name:   C200910072313A
+time shift:          12.4000
+half duration:       12.3000
+latitude:           -13.1200
+longitude:          166.3700
+depth:               42.5000
+Mrr:            1.700000E+27
+Mtt:           -2.260000E+26
+Mpp:           -1.480000E+27
+Mrt:           -1.250000E+26
+Mrp:           -1.730000E+26
+Mtp:            3.420000E+26
+
+ PDE 2009 11 09 10 44 54.80  -17.2400  178.3400 590.9 7.3 7.3 FIJI ISLANDS
+event name:   C200911091044A
+time shift:           8.6000
+half duration:       10.5000
+latitude:           -17.1100
+longitude:          178.5300
+depth:              603.9000
+Mrr:            5.420000E+26
+Mtt:            1.550000E+26
+Mpp:           -6.970000E+26
+Mrt:            5.090000E+26
+Mrp:            2.190000E+26
+Mtp:           -5.630000E+26
+
+ PDE 2010 01 03 22 36 28.00   -8.8000  157.3500  25.0 7.1 7.1 SOLOMON ISLANDS
+event name:   C201001032236A
+time shift:          14.4000
+half duration:        8.7000
+latitude:            -8.8800
+longitude:          157.2100
+depth:               12.0000
+Mrr:            3.720000E+26
+Mtt:           -1.870000E+26
+Mpp:           -1.850000E+26
+Mrt:            3.460000E+26
+Mrp:           -2.610000E+26
+Mtp:            2.040000E+26
+
+ PDE 2010 01 12 21 53 10.20   18.4500  -72.5500  13.0 7.0 7.0 HAITI REGION
+event name:   C201001122153A
+time shift:           6.9000
+half duration:        8.1000
+latitude:            18.6100
+longitude:          -72.6200
+depth:               12.0000
+Mrr:            1.740000E+26
+Mtt:           -3.870000E+26
+Mpp:            2.130000E+26
+Mrt:           -5.310000E+25
+Mrp:           -1.060000E+26
+Mtp:            2.740000E+26
+
+ PDE 2010 02 27 06 34 15.60  -35.8500  -72.7100  44.8 8.8 8.3 NEAR COAST OF CENTRAL CHILE
+event name:   C201002270634A
+time shift:          58.9000
+half duration:       60.0000
+latitude:           -35.9800
+longitude:          -73.1500
+depth:               23.2000
+Mrr:            1.040000E+29
+Mtt:           -3.900000E+27
+Mpp:           -1.000000E+29
+Mrt:            3.040000E+28
+Mrp:           -1.520000E+29
+Mtp:           -1.190000E+28
+
+ PDE 2010 02 27 08 01 23.90  -37.7700  -75.0500  41.7 7.4 0.0 OFF COAST OF CENTRAL CHILE
+event name:   S201002270801A
+time shift:           5.9000
+half duration:        6.6000
+latitude:           -38.0900
+longitude:          -75.4100
+depth:               19.9000
+Mrr:           -1.400000E+27
+Mtt:            1.630000E+26
+Mpp:            1.240000E+27
+Mrt:            2.340000E+26
+Mrp:           -4.100000E+25
+Mtp:            2.270000E+26
+
+ PDE 2010 04 04 22 40 43.00   32.3000 -115.2700   6.0 7.2 7.3 CALIF.-BAJA CALIF. BORDER REGION
+event name:   C201004042240A
+time shift:          26.2000
+half duration:        9.6000
+latitude:            32.3100
+longitude:         -115.3900
+depth:               12.8000
+Mrr:           -2.290000E+26
+Mtt:           -6.420000E+26
+Mpp:            8.710000E+26
+Mrt:            4.300000E+25
+Mrp:           -5.700000E+25
+Mtp:           -5.400000E+25
+
+ PDE 2010 04 06 22 15 01.60    2.3800   97.0500  31.0 7.8 7.9 NORTHERN SUMATRA, INDONESIA
+event name:   M201004062215A
+time shift:          17.5000
+half duration:       19.5000
+latitude:             2.0700
+longitude:           96.7400
+depth:               17.6000
+Mrr:            1.720000E+27
+Mtt:           -1.060000E+27
+Mpp:           -6.630000E+26
+Mrt:            4.970000E+27
+Mrp:           -3.980000E+27
+Mtp:            7.710000E+26
+
+ PDE 2010 05 09 05 59 41.60    3.7500   96.0200  38.0 7.2 7.3 NORTHERN SUMATRA, INDONESIA
+event name:   C201005090559A
+time shift:           9.8000
+half duration:       10.3000
+latitude:             3.3600
+longitude:           95.7800
+depth:               37.2000
+Mrr:            4.540000E+26
+Mtt:           -2.760000E+26
+Mpp:           -1.770000E+26
+Mrt:            6.290000E+26
+Mrp:           -5.290000E+26
+Mtp:            2.310000E+26
+
+ PDE 2010 05 27 17 14 46.60  -13.7000  166.6400  31.0 7.2 7.1 VANUATU ISLANDS
+event name:   C201005271714A
+time shift:           8.8000
+half duration:        9.3000
+latitude:           -13.8100
+longitude:          166.6500
+depth:               42.9000
+Mrr:            6.890000E+26
+Mtt:           -5.340000E+25
+Mpp:           -6.350000E+26
+Mrt:            5.430000E+25
+Mrp:           -1.710000E+25
+Mtp:            2.000000E+26
+
+ PDE 2010 06 12 19 26 50.50    7.8800   91.9400  35.0 7.5 7.5 NICOBAR ISLANDS, INDIA REGION
+event name:   C201006121926A
+time shift:           9.9000
+half duration:       13.1000
+latitude:             7.8500
+longitude:           91.6500
+depth:               33.1000
+Mrr:            7.710000E+26
+Mtt:           -1.760000E+27
+Mpp:            9.920000E+26
+Mrt:            2.290000E+26
+Mrp:           -1.000000E+27
+Mtp:           -6.330000E+26
+
+ PDE 2010 06 16 03 16 27.50   -2.1700  136.5400  18.0 7.0 7.1 IRIAN JAYA REGION, INDONESIA
+event name:   C201006160316A
+time shift:          11.8000
+half duration:        7.7000
+latitude:            -1.8700
+longitude:          136.3600
+depth:               12.0000
+Mrr:           -2.740000E+25
+Mtt:           -3.160000E+26
+Mpp:            3.440000E+26
+Mrt:            7.940000E+25
+Mrp:           -1.330000E+25
+Mtp:            2.100000E+26
+
+ PDE 2010 07 18 13 34 59.30   -5.9300  150.5900  35.0 7.3 7.3 NEW BRITAIN REGION, P.N.G.
+event name:   C201007181335A
+time shift:          13.8000
+half duration:       11.2000
+latitude:            -6.2200
+longitude:          150.3300
+depth:               36.7000
+Mrr:            1.020000E+27
+Mtt:           -1.030000E+27
+Mpp:            6.000000E+24
+Mrt:            6.260000E+26
+Mrp:           -1.000000E+25
+Mtp:           -1.540000E+26
+
+ PDE 2010 07 23 22 08 11.20    6.7200  123.4100 607.1 7.3 7.3 MINDANAO, PHILIPPINES
+event name:   C201007232208A
+time shift:           9.1000
+half duration:       11.0000
+latitude:             6.5400
+longitude:          123.5900
+depth:              596.8000
+Mrr:           -3.940000E+26
+Mtt:            3.230000E+26
+Mpp:            7.100000E+25
+Mrt:           -3.180000E+26
+Mrp:           -9.900000E+26
+Mtp:            3.190000E+26
+
+ PDE 2010 07 23 22 51 12.40    6.4900  123.4700 585.8 7.6 7.6 MINDANAO, PHILIPPINES
+event name:   C201007232251A
+time shift:           8.3000
+half duration:       16.2000
+latitude:             6.6200
+longitude:          123.9000
+depth:              576.9000
+Mrr:           -1.550000E+27
+Mtt:            4.570000E+26
+Mpp:            1.090000E+27
+Mrt:            3.960000E+26
+Mrp:           -3.270000E+27
+Mtp:            8.550000E+26
+
+ PDE 2010 07 23 23 15 10.20    6.7800  123.2600 640.6 7.5 7.4 MINDANAO, PHILIPPINES
+event name:   C201007232315A
+time shift:           5.5000
+half duration:       12.9000
+latitude:             6.8300
+longitude:          123.4800
+depth:              641.4000
+Mrr:           -1.380000E+27
+Mtt:            1.040000E+27
+Mpp:            3.310000E+26
+Mrt:           -5.080000E+26
+Mrp:           -1.500000E+27
+Mtp:            2.700000E+25
+
+ PDE 2010 08 10 05 23 45.00  -17.5400  168.0700  25.0 7.3 7.3 VANUATU ISLANDS
+event name:   C201008100523A
+time shift:           8.9000
+half duration:       10.5000
+latitude:           -17.5700
+longitude:          167.8100
+depth:               31.9000
+Mrr:            7.370000E+26
+Mtt:           -7.700000E+25
+Mpp:           -6.610000E+26
+Mrt:            5.290000E+26
+Mrp:           -2.870000E+26
+Mtp:            4.150000E+26
+
+ PDE 2010 08 12 11 54 15.60   -1.2700  -77.3100 206.7 7.1 7.1 ECUADOR
+event name:   C201008121154A
+time shift:           5.1000
+half duration:        8.4000
+latitude:            -1.5100
+longitude:          -77.5100
+depth:              197.8000
+Mrr:           -2.710000E+26
+Mtt:            1.090000E+26
+Mpp:            1.610000E+26
+Mrt:            3.160000E+26
+Mrp:           -2.480000E+26
+Mtp:           -2.350000E+26
+
+ PDE 2010 10 25 14 42 22.50   -3.4900  100.0800  20.1 7.8 7.8 SOUTHERN SUMATRA, INDONESIA
+event name:   C201010251442A
+time shift:          37.3000
+half duration:       19.9000
+latitude:            -3.7100
+longitude:           99.3200
+depth:               12.0000
+Mrr:            1.910000E+27
+Mtt:           -1.010000E+27
+Mpp:           -9.060000E+26
+Mrt:            5.030000E+27
+Mrp:           -4.150000E+27
+Mtp:            7.950000E+26
+
+ PDE 2010 12 21 17 19 40.70   26.9000  143.7000  14.0 7.4 7.5 BONIN ISLANDS, JAPAN REGION
+event name:   C201012211719A
+time shift:          12.9000
+half duration:       12.6000
+latitude:            27.1000
+longitude:          143.7600
+depth:               15.6000
+Mrr:           -1.170000E+27
+Mtt:            4.660000E+26
+Mpp:            7.010000E+26
+Mrt:           -1.400000E+26
+Mrp:           -9.760000E+26
+Mtp:           -1.040000E+27
+
+ PDE 2010 12 25 13 16 37.00  -19.7000  167.9400  16.0 7.3 7.4 VANUATU ISLANDS REGION
+event name:   C201012251316A
+time shift:          14.4000
+half duration:       10.9000
+latitude:           -19.6700
+longitude:          168.0400
+depth:               16.6000
+Mrr:           -1.020000E+27
+Mtt:            7.000000E+25
+Mpp:            9.550000E+26
+Mrt:           -4.160000E+26
+Mrp:           -1.220000E+26
+Mtp:           -3.470000E+26
+
+ PDE 2011 01 01 09 56 58.10  -26.7900  -63.0900 576.8 7.0 7.0 SANTIAGO DEL ESTERO PROV., ARG.
+event name:   C201101010956A
+time shift:           5.7000
+half duration:        8.0000
+latitude:           -27.0200
+longitude:          -63.2100
+depth:              586.0000
+Mrr:           -2.470000E+26
+Mtt:           -1.250000E+25
+Mpp:            2.590000E+26
+Mrt:           -1.760000E+26
+Mrp:            2.980000E+26
+Mtp:           -7.740000E+25
+
+ PDE 2011 01 02 20 20 17.70  -38.3700  -73.3500  24.0 7.1 7.1 NEAR COAST OF CENTRAL CHILE
+event name:   C201101022020A
+time shift:           8.9000
+half duration:        8.9000
+latitude:           -38.7100
+longitude:          -73.8400
+depth:               19.4000
+Mrr:            2.840000E+26
+Mtt:           -4.900000E+24
+Mpp:           -2.790000E+26
+Mrt:            2.700000E+25
+Mrp:           -5.660000E+26
+Mtp:           -5.700000E+24
+
+ PDE 2011 01 18 20 23 23.50   28.7800   63.9400  68.0 7.2 7.2 SOUTHWESTERN PAKISTAN
+event name:   C201101182023A
+time shift:           8.3000
+half duration:       10.1000
+latitude:            28.6100
+longitude:           63.9000
+depth:               52.3000
+Mrr:           -6.400000E+26
+Mtt:            5.400000E+26
+Mpp:            1.000000E+26
+Mrt:            2.880000E+26
+Mrp:            4.180000E+26
+Mtp:            4.090000E+26
+
+ PDE 2011 03 09 02 45 20.30   38.4400  142.8400  32.0 7.3 7.3 NEAR EAST COAST OF HONSHU, JAPAN
+event name:   C201103090245A
+time shift:          11.7000
+half duration:       11.3000
+latitude:            38.5600
+longitude:          142.7800
+depth:               14.1000
+Mrr:            4.890000E+26
+Mtt:           -2.400000E+25
+Mpp:           -4.650000E+26
+Mrt:            4.180000E+26
+Mrp:            1.050000E+27
+Mtp:           -1.280000E+26
+
+ PDE 2011 03 11 05 46 23.00   38.3200  142.3700  24.4 9.1 7.9 NEAR EAST COAST OF HONSHU, JAPAN
+event name:   M201103110546A
+time shift:          69.8000
+half duration:       70.0000
+latitude:            37.5200
+longitude:          143.0500
+depth:               20.0000
+Mrr:            1.730000E+29
+Mtt:           -2.810000E+28
+Mpp:           -1.450000E+29
+Mrt:            2.120000E+29
+Mrp:            4.550000E+29
+Mtp:           -6.570000E+28
+
+ PDE 2011 03 11 06 15 45.00   36.1300  140.2300  30.2 7.9 6.8 NEAR EAST COAST OF HONSHU, JAPAN
+event name:   S201103110615A
+time shift:          13.7000
+half duration:       21.2000
+latitude:            35.9200
+longitude:          141.3800
+depth:               29.0000
+Mrr:            4.390000E+27
+Mtt:           -3.140000E+26
+Mpp:           -4.070000E+27
+Mrt:            3.170000E+27
+Mrp:            6.340000E+27
+Mtp:           -1.970000E+27
+
+ PDE 2011 03 11 06 25 50.00   38.1100  144.5500  19.7 7.6 7.1 OFF EAST COAST OF HONSHU, JAPAN
+event name:   S201103110625A
+time shift:          22.6000
+half duration:       15.5000
+latitude:            38.2700
+longitude:          144.6300
+depth:               21.1000
+Mrr:           -3.030000E+27
+Mtt:            3.100000E+25
+Mpp:            3.000000E+27
+Mrt:           -4.110000E+26
+Mrp:           -3.380000E+26
+Mtp:            4.670000E+26
+
+ PDE 2011 04 07 14 32 43.30   38.2800  141.5900  42.0 7.1 7.1 NEAR EAST COAST OF HONSHU, JAPAN
+event name:   C201104071432A
+time shift:           7.3000
+half duration:        8.8000
+latitude:            38.3200
+longitude:          141.8500
+depth:               53.3000
+Mrr:            5.990000E+26
+Mtt:           -1.430000E+26
+Mpp:           -4.550000E+26
+Mrt:           -1.110000E+26
+Mrp:           -1.250000E+26
+Mtp:           -1.650000E+26
+
+ PDE 2011 06 24 03 09 39.50   52.0700 -171.8400  52.0 7.2 7.3 FOX ISLANDS, ALEUTIAN ISLANDS
+event name:   C201106240309A
+time shift:          12.0000
+half duration:       10.3000
+latitude:            52.0900
+longitude:         -171.7700
+depth:               74.2000
+Mrr:           -2.700000E+25
+Mtt:            1.710000E+26
+Mpp:           -1.440000E+26
+Mrt:            9.220000E+26
+Mrp:            1.110000E+26
+Mtp:            1.840000E+26
+
+ PDE 2011 07 06 19 03 18.30  -29.5400 -176.3400  17.0 7.6 7.8 KERMADEC ISLANDS REGION
+event name:   C201107061903A
+time shift:          14.2000
+half duration:       15.1000
+latitude:           -29.2200
+longitude:         -175.8300
+depth:               22.3000
+Mrr:           -2.560000E+27
+Mtt:           -2.840000E+26
+Mpp:            2.840000E+27
+Mrt:           -6.360000E+26
+Mrp:           -1.070000E+27
+Mtp:           -1.400000E+26
+
+ PDE 2011 07 10 00 57 10.80   38.0300  143.2600  23.0 7.0 7.0 OFF EAST COAST OF HONSHU, JAPAN
+event name:   C201107100057A
+time shift:           5.5000
+half duration:        7.7000
+latitude:            37.9800
+longitude:          143.3300
+depth:               22.0000
+Mrr:            4.910000E+25
+Mtt:           -3.250000E+26
+Mpp:            2.760000E+26
+Mrt:            4.130000E+25
+Mrp:            1.360000E+26
+Mtp:            2.120000E+26
+
+ PDE 2011 08 20 16 55 02.80  -18.3600  168.1400  32.0 7.1 7.1 VANUATU ISLANDS
+event name:   C201108201655A
+time shift:          10.3000
+half duration:        9.0000
+latitude:           -18.5200
+longitude:          167.9400
+depth:               33.5000
+Mrr:            5.280000E+26
+Mtt:           -4.540000E+25
+Mpp:           -4.830000E+26
+Mrt:            1.270000E+26
+Mrp:           -3.060000E+26
+Mtp:            1.770000E+26
+
+ PDE 2011 08 20 18 19 23.50  -18.3100  168.2200  28.0 7.0 7.1 VANUATU ISLANDS
+event name:   C201108201819A
+time shift:          11.9000
+half duration:        8.1000
+latitude:           -18.2600
+longitude:          167.9400
+depth:               36.0000
+Mrr:            4.080000E+26
+Mtt:           -2.810000E+25
+Mpp:           -3.800000E+26
+Mrt:            7.940000E+25
+Mrp:           -1.750000E+26
+Mtp:            1.430000E+26
+
+ PDE 2011 08 24 17 46 11.60   -7.6400  -74.5300 147.0 7.0 7.0 PERU-BRAZIL BORDER REGION
+event name:   C201108241746A
+time shift:           3.9000
+half duration:        7.9000
+latitude:            -7.6800
+longitude:          -74.6600
+depth:              144.4000
+Mrr:           -3.310000E+26
+Mtt:           -1.030000E+26
+Mpp:            4.340000E+26
+Mrt:            1.220000E+26
+Mrp:           -1.200000E+26
+Mtp:           -4.080000E+25
+
+ PDE 2011 09 03 22 55 40.90  -20.6700  169.7200 185.1 7.0 7.0 VANUATU ISLANDS
+event name:   C201109032255A
+time shift:           4.6000
+half duration:        8.0000
+latitude:           -20.7900
+longitude:          169.7200
+depth:              151.6000
+Mrr:            1.210000E+26
+Mtt:            1.080000E+26
+Mpp:           -2.290000E+26
+Mrt:            3.030000E+26
+Mrp:           -2.080000E+26
+Mtp:            1.340000E+26
+
+ PDE 2011 09 15 19 31 04.10  -21.6100 -179.5300 644.6 7.3 7.3 FIJI ISLANDS REGION
+event name:   C201109151931A
+time shift:           6.8000
+half duration:       11.1000
+latitude:           -21.6100
+longitude:         -179.2100
+depth:              624.9000
+Mrr:           -1.410000E+26
+Mtt:            7.870000E+26
+Mpp:           -6.460000E+26
+Mrt:           -5.890000E+26
+Mrp:           -7.350000E+26
+Mtp:           -5.200000E+25
+
+ PDE 2011 10 21 17 57 16.10  -28.9900 -176.2400  33.0 7.4 7.5 KERMADEC ISLANDS REGION
+event name:   C201110211757A
+time shift:          12.2000
+half duration:       12.0000
+latitude:           -28.8300
+longitude:         -175.7200
+depth:               48.4000
+Mrr:            1.320000E+27
+Mtt:           -1.590000E+26
+Mpp:           -1.170000E+27
+Mrt:            2.680000E+26
+Mrp:            3.140000E+26
+Mtp:           -6.930000E+26
+
+ PDE 2011 10 23 10 41 22.90   38.7200   43.5100  16.0 7.1 7.3 TURKEY
+event name:   C201110231041A
+time shift:           5.5000
+half duration:        9.0000
+latitude:            38.6400
+longitude:           43.4000
+depth:               12.0000
+Mrr:            5.270000E+26
+Mtt:           -5.860000E+26
+Mpp:            5.910000E+25
+Mrt:            2.130000E+26
+Mrp:           -1.780000E+26
+Mtp:           -6.120000E+25
+
+ PDE 2011 12 14 05 04 59.30   -7.5600  146.8000 140.9 7.1 7.1 EASTERN NEW GUINEA REG., P.N.G.
+event name:   C201112140504A
+time shift:           5.7000
+half duration:        8.5000
+latitude:            -7.4900
+longitude:          146.8300
+depth:              132.9000
+Mrr:           -9.300000E+24
+Mtt:           -1.780000E+26
+Mpp:            1.880000E+26
+Mrt:           -1.170000E+26
+Mrp:            4.720000E+26
+Mtp:            1.320000E+26
+
+ PDE 2012 01 10 18 36 59.10    2.4300   93.2100  19.0 7.2 7.2 OFF W COAST OF NORTHERN SUMATRA
+event name:   C201201101837A
+time shift:          14.2000
+half duration:        9.6000
+latitude:             2.5900
+longitude:           92.9800
+depth:               23.7000
+Mrr:           -5.120000E+25
+Mtt:           -2.960000E+26
+Mpp:            3.470000E+26
+Mrt:           -1.070000E+26
+Mrp:           -9.030000E+25
+Mtp:           -6.680000E+26
+
+ PDE 2012 02 02 13 34 40.70  -17.8300  167.1300  23.0 7.0 7.1 VANUATU ISLANDS
+event name:   C201202021334A
+time shift:           8.5000
+half duration:        8.0000
+latitude:           -17.6900
+longitude:          167.1100
+depth:               20.5000
+Mrr:           -2.920000E+26
+Mtt:           -1.200000E+26
+Mpp:            4.130000E+26
+Mrt:           -9.170000E+25
+Mrp:            8.960000E+25
+Mtp:            2.360000E+26
+
+ PDE 2012 03 20 18 02 47.50   16.5000  -98.2200  20.0 7.5 7.6 NEAR COAST OF GUERRERO, MEXICO
+event name:   C201203201802A
+time shift:           7.4000
+half duration:       13.2000
+latitude:            16.6000
+longitude:          -98.3900
+depth:               15.4000
+Mrr:            6.790000E+26
+Mtt:           -5.640000E+26
+Mpp:           -1.150000E+26
+Mrt:            1.740000E+27
+Mrp:           -6.590000E+26
+Mtp:            2.420000E+26
+
+ PDE 2012 03 25 22 37 06.00  -35.2000  -72.2200  40.7 7.1 7.1 NEAR COAST OF CENTRAL CHILE
+event name:   C201203252237A
+time shift:          14.9000
+half duration:        8.8000
+latitude:           -35.3100
+longitude:          -72.4100
+depth:               33.8000
+Mrr:            2.920000E+26
+Mtt:           -3.800000E+24
+Mpp:           -2.880000E+26
+Mrt:            4.150000E+25
+Mrp:           -5.190000E+26
+Mtp:           -4.740000E+25
+
+ PDE 2012 04 11 08 38 36.70    2.3300   93.0600  20.0 8.6 8.6 OFF W COAST OF NORTHERN SUMATRA
+event name:   C201204110838A
+time shift:          54.7000
+half duration:       47.3000
+latitude:             2.3500
+longitude:           92.8200
+depth:               45.6000
+Mrr:            1.320000E+28
+Mtt:           -6.190000E+28
+Mpp:            4.870000E+28
+Mrt:           -1.750000E+28
+Mrp:            1.040000E+28
+Mtp:           -6.950000E+28
+
+ PDE 2012 04 11 10 43 10.90    0.8000   92.4600  25.1 8.2 8.2 OFF W COAST OF NORTHERN SUMATRA
+event name:   C201204111043A
+time shift:          27.3000
+half duration:       32.2000
+latitude:             0.9000
+longitude:           92.3100
+depth:               54.7000
+Mrr:            5.530000E+27
+Mtt:           -1.900000E+28
+Mpp:            1.350000E+28
+Mrt:           -3.360000E+27
+Mrp:           -2.890000E+27
+Mtp:           -2.360000E+28
+
+ PDE 2012 04 12 07 15 48.50   28.7000 -113.1000  13.0 7.0 7.0 BAJA CALIFORNIA, MEXICO
+event name:   C201204120715A
+time shift:          16.0000
+half duration:        8.1000
+latitude:            28.5700
+longitude:         -112.7600
+depth:               15.8000
+Mrr:           -2.110000E+25
+Mtt:           -4.220000E+26
+Mpp:            4.430000E+26
+Mrt:           -9.350000E+25
+Mrp:           -8.380000E+25
+Mtp:           -6.440000E+25
+
+ PDE 2012 08 14 02 59 38.50   49.8000  145.0600 583.2 7.7 7.7 SEA OF OKHOTSK
+event name:   C201208140259A
+time shift:          12.4000
+half duration:       17.8000
+latitude:            49.9700
+longitude:          145.7000
+depth:              598.2000
+Mrr:            3.840000E+27
+Mtt:           -1.870000E+27
+Mpp:           -1.970000E+27
+Mrt:           -2.740000E+27
+Mrp:           -5.080000E+26
+Mtp:           -2.150000E+27
+
+ PDE 2012 08 27 04 37 19.40   12.1400  -88.5900  28.0 7.3 7.4 OFF COAST OF CENTRAL AMERICA
+event name:   C201208270437A
+time shift:          20.1000
+half duration:       11.3000
+latitude:            12.0200
+longitude:          -89.1700
+depth:               12.0000
+Mrr:            6.250000E+26
+Mtt:           -5.340000E+26
+Mpp:           -9.200000E+25
+Mrt:            9.820000E+26
+Mrp:           -5.170000E+26
+Mtp:            1.800000E+26
+
+ PDE 2012 08 31 12 47 33.40   10.8100  126.6400  28.0 7.6 7.6 PHILIPPINE ISLANDS REGION
+event name:   C201208311247A
+time shift:          10.4000
+half duration:       15.7000
+latitude:            10.8500
+longitude:          126.9700
+depth:               45.2000
+Mrr:            2.970000E+27
+Mtt:            5.310000E+26
+Mpp:           -3.500000E+27
+Mrt:           -7.510000E+26
+Mrp:           -4.270000E+26
+Mtp:           -1.470000E+26
+
+ PDE 2012 09 05 14 42 07.90   10.1000  -85.3100  35.0 7.6 7.7 COSTA RICA
+event name:   C201209051442A
+time shift:          15.4000
+half duration:       15.8000
+latitude:            10.0000
+longitude:          -85.6400
+depth:               29.7000
+Mrr:            1.850000E+27
+Mtt:           -1.370000E+27
+Mpp:           -4.830000E+26
+Mrt:            2.610000E+27
+Mrp:           -1.160000E+27
+Mtp:            8.600000E+26
+
+ PDE 2012 09 30 16 31 36.00    1.9300  -76.3600 170.0 7.2 7.3 COLOMBIA
+event name:   C201209301631A
+time shift:           8.5000
+half duration:       10.1000
+latitude:             1.8900
+longitude:          -76.2200
+depth:              159.1000
+Mrr:           -7.550000E+26
+Mtt:            7.580000E+26
+Mpp:           -4.000000E+24
+Mrt:           -2.780000E+26
+Mrp:            5.900000E+25
+Mtp:            4.170000E+26
+
+ PDE 2012 10 28 03 04 08.80   52.7900 -132.1000  14.0 7.8 7.8 QUEEN CHARLOTTE ISLANDS REGION
+event name:   C201210280304A
+time shift:          28.4000
+half duration:       18.7000
+latitude:            52.6100
+longitude:         -132.0600
+depth:               12.0000
+Mrr:            4.080000E+27
+Mtt:           -2.530000E+27
+Mpp:           -1.560000E+27
+Mrt:            3.260000E+27
+Mrp:           -1.780000E+27
+Mtp:            2.400000E+27
+
+ PDE 2012 11 07 16 35 46.70   13.9600  -91.8500  24.0 7.4 7.4 NEAR COAST OF GUATEMALA
+event name:   C201211071635A
+time shift:           9.6000
+half duration:       11.9000
+latitude:            14.1100
+longitude:          -92.4300
+depth:               21.3000
+Mrr:            1.110000E+27
+Mtt:           -8.840000E+26
+Mpp:           -2.260000E+26
+Mrt:            7.870000E+26
+Mrp:           -5.270000E+26
+Mtp:            4.060000E+26
+
+ PDE 2012 12 07 08 18 24.30   37.8900  144.0900  36.1 7.2 7.3 OFF EAST COAST OF HONSHU, JAPAN
+event name:   C201212070818A
+time shift:          10.6000
+half duration:       11.8000
+latitude:            38.0100
+longitude:          144.0900
+depth:               57.8000
+Mrr:            5.140000E+26
+Mtt:            4.400000E+26
+Mpp:           -9.540000E+26
+Mrt:            8.300000E+25
+Mrp:           -1.380000E+26
+Mtp:           -1.600000E+26
+
+ PDE 2012 12 07 08 18 24.30   37.8900  144.0900  36.1 7.2 7.3 OFF EAST COAST OF HONSHU, JAPAN
+event name:   C201212070818B
+time shift:          22.6000
+half duration:       11.8000
+latitude:            37.7700
+longitude:          143.8300
+depth:               19.5000
+Mrr:           -6.480000E+26
+Mtt:           -1.160000E+26
+Mpp:            7.640000E+26
+Mrt:            3.900000E+25
+Mrp:            1.240000E+26
+Mtp:            3.140000E+26
+
+ PDE 2012 12 10 16 53 08.80   -6.5300  129.8200 155.0 7.1 7.1 BANDA SEA
+event name:   C201212101653A
+time shift:           6.2000
+half duration:        8.6000
+latitude:            -6.6500
+longitude:          129.8300
+depth:              159.2000
+Mrr:            1.030000E+26
+Mtt:           -4.450000E+26
+Mpp:            3.420000E+26
+Mrt:            1.810000E+26
+Mrp:            3.510000E+26
+Mtp:            1.310000E+25
+
+ PDE 2013 01 05 08 58 19.30   55.3900 -134.6500  10.0 7.5 7.7 SOUTHEASTERN ALASKA
+event name:   C201301050858A
+time shift:          12.2000
+half duration:       14.2000
+latitude:            55.6900
+longitude:         -134.9700
+depth:               13.8000
+Mrr:            6.000000E+24
+Mtt:           -1.700000E+27
+Mpp:            1.690000E+27
+Mrt:            1.090000E+27
+Mrp:            5.960000E+26
+Mtp:            1.290000E+27
+
+ PDE 2013 02 06 01 12 25.80  -10.8000  165.1100  24.0 7.9 8.0 SANTA CRUZ ISLANDS
+event name:   C201302060112A
+time shift:          29.2000
+half duration:       22.1000
+latitude:           -11.1800
+longitude:          165.2100
+depth:               20.2000
+Mrr:            6.150000E+27
+Mtt:           -2.440000E+27
+Mpp:           -3.710000E+27
+Mrt:            4.380000E+27
+Mrp:           -5.580000E+27
+Mtp:            2.960000E+27
+
+ PDE 2013 02 06 01 23 19.80  -11.1800  164.8800  10.0 7.1 7.1 SANTA CRUZ ISLANDS REGION
+event name:   C201302060123A
+time shift:          10.4000
+half duration:        8.6000
+latitude:           -11.3200
+longitude:          164.8600
+depth:               22.5000
+Mrr:           -5.420000E+26
+Mtt:            6.330000E+25
+Mpp:            4.790000E+26
+Mrt:           -3.800000E+24
+Mrp:            1.390000E+26
+Mtp:           -1.510000E+26
+
+ PDE 2013 02 08 15 26 38.50  -10.9300  166.0200  21.0 7.0 7.1 SANTA CRUZ ISLANDS
+event name:   C201302081526A
+time shift:          15.3000
+half duration:        8.2000
+latitude:           -10.7200
+longitude:          165.9200
+depth:               23.6000
+Mrr:            2.900000E+24
+Mtt:            4.270000E+25
+Mpp:           -4.560000E+25
+Mrt:           -4.870000E+25
+Mrp:            6.500000E+25
+Mtp:           -4.620000E+26
+
+ PDE 2013 04 16 10 44 20.20   28.0300   62.0000  80.0 7.7 7.7 SOUTHWESTERN PAKISTAN
+event name:   C201304161044A
+time shift:          12.0000
+half duration:       18.1000
+latitude:            27.8900
+longitude:           62.2100
+depth:               50.8000
+Mrr:           -4.320000E+27
+Mtt:            4.280000E+27
+Mpp:            4.000000E+25
+Mrt:            1.400000E+27
+Mrp:            1.390000E+27
+Mtp:            1.950000E+27
+
+ PDE 2013 04 19 03 05 52.70   46.2200  150.7900 110.0 7.2 7.2 KURIL ISLANDS
+event name:   C201304190305A
+time shift:          12.0000
+half duration:       10.3000
+latitude:            46.0000
+longitude:          150.9200
+depth:              104.5000
+Mrr:           -1.860000E+26
+Mtt:            4.460000E+26
+Mpp:           -2.600000E+26
+Mrt:            7.910000E+26
+Mrp:            3.780000E+26
+Mtp:           -5.500000E+25
+
+ PDE 2013 05 23 17 19 04.80  -23.0100 -177.2300 173.7 7.4 7.4 SOUTH OF FIJI ISLANDS
+event name:   C201305231719A
+time shift:           8.2000
+half duration:       12.3000
+latitude:           -23.1900
+longitude:         -176.8800
+depth:              188.1000
+Mrr:           -4.140000E+26
+Mtt:           -5.800000E+25
+Mpp:            4.720000E+26
+Mrt:           -4.300000E+26
+Mrp:           -1.500000E+27
+Mtp:           -8.000000E+24
+
+ PDE 2013 05 24 05 44 49.00   54.8900  153.2200 598.1 8.3 8.4 SEA OF OKHOTSK
+event name:   C201305240544A
+time shift:          19.4000
+half duration:       35.7000
+latitude:            54.6100
+longitude:          153.7700
+depth:              611.0000
+Mrr:           -1.670000E+28
+Mtt:            3.820000E+27
+Mpp:            1.280000E+28
+Mrt:           -7.840000E+27
+Mrp:           -3.570000E+28
+Mtp:            1.550000E+27
+
+ PDE 2013 07 07 18 35 30.70   -3.9200  153.9300 385.5 7.3 7.3 NEW IRELAND REGION, P.N.G.
+event name:   C201307071835A
+time shift:          11.7000
+half duration:       10.9000
+latitude:            -4.1000
+longitude:          153.9800
+depth:              382.9000
+Mrr:           -1.100000E+27
+Mtt:            2.390000E+26
+Mpp:            8.630000E+26
+Mrt:            2.740000E+26
+Mrp:            1.390000E+26
+Mtp:           -4.210000E+26
+
+ PDE 2013 07 15 14 03 39.90  -60.8600  -25.0700  11.0 7.3 7.3 SOUTH SANDWICH ISLANDS REGION
+event name:   C201307151403A
+time shift:          27.2000
+half duration:       11.3000
+latitude:           -61.0500
+longitude:          -23.5100
+depth:               21.5000
+Mrr:           -2.990000E+26
+Mtt:            2.380000E+26
+Mpp:            6.000000E+25
+Mrt:            3.470000E+26
+Mrp:            2.000000E+24
+Mtp:            1.180000E+27
+
+ PDE 2013 09 24 11 29 48.00   26.9700   65.5200  15.0 7.8 7.7 PAKISTAN
+event name:   C201309241129A
+time shift:          20.4000
+half duration:       18.6000
+latitude:            26.7000
+longitude:           65.0400
+depth:               12.0000
+Mrr:            5.200000E+26
+Mtt:           -3.880000E+27
+Mpp:            3.360000E+27
+Mrt:            3.720000E+27
+Mrp:           -2.240000E+27
+Mtp:            2.500000E+25
+
+ PDE 2013 09 25 16 42 43.80  -15.8500  -74.5600  45.8 7.0 7.0 NEAR COAST OF PERU
+event name:   C201309251642A
+time shift:           8.6000
+half duration:        8.1000
+latitude:           -16.0300
+longitude:          -74.8100
+depth:               46.1000
+Mrr:            3.610000E+26
+Mtt:           -2.250000E+26
+Mpp:           -1.360000E+26
+Mrt:            1.540000E+26
+Mrp:           -1.540000E+26
+Mtp:            2.650000E+26
+
+ PDE 2013 10 15 00 12 32.00    9.8800  124.1200  19.0 7.1 7.1 MINDANAO, PHILIPPINES
+event name:   C201310150012A
+time shift:          18.0000
+half duration:        8.7000
+latitude:             9.8400
+longitude:          123.9600
+depth:               12.0000
+Mrr:            4.970000E+26
+Mtt:           -2.910000E+26
+Mpp:           -2.060000E+26
+Mrt:           -1.020000E+26
+Mrp:           -2.970000E+25
+Mtp:           -3.530000E+26
+
+ PDE 2013 10 25 17 10 19.70   37.1600  144.6600  35.0 7.1 7.1 OFF EAST COAST OF HONSHU, JAPAN
+event name:   C201310251710A
+time shift:           5.6000
+half duration:        9.1000
+latitude:            37.1700
+longitude:          144.6600
+depth:               24.9000
+Mrr:           -6.290000E+26
+Mtt:            5.400000E+24
+Mpp:            6.240000E+26
+Mrt:           -1.380000E+26
+Mrp:           -6.370000E+25
+Mtp:            2.290000E+25
+
+ PDE 2013 11 17 09 04 55.50  -60.2700  -46.4000  10.0 7.8 7.7 SCOTIA SEA
+event name:   C201311170904A
+time shift:          45.5000
+half duration:       18.9000
+latitude:           -60.4900
+longitude:          -45.3200
+depth:               23.8000
+Mrr:            5.900000E+25
+Mtt:            1.210000E+27
+Mpp:           -1.270000E+27
+Mrt:            1.560000E+27
+Mrp:            3.950000E+27
+Mtp:            3.860000E+27
+
+ PDE 2014 04 01 23 46 47.30  -19.6100  -70.7700  25.0 8.1 8.2 NEAR COAST OF NORTHERN CHILE
+event name:   C201404012346A
+time shift:          44.2000
+half duration:       28.0000
+latitude:           -19.7000
+longitude:          -70.8100
+depth:               21.6000
+Mrr:            9.200000E+27
+Mtt:           -3.900000E+26
+Mpp:           -8.810000E+27
+Mrt:            6.370000E+27
+Mrp:           -1.530000E+28
+Mtp:            2.050000E+27
+
+ PDE 2014 04 01 23 57 58.80  -19.8900  -70.9500  28.4 7.0 6.9 NEAR COAST OF NORTHERN CHILE
+event name:   C201404012358A
+time shift:          12.6000
+half duration:        7.7000
+latitude:           -19.8500
+longitude:          -71.3900
+depth:               20.6000
+Mrr:            3.140000E+26
+Mtt:           -2.390000E+25
+Mpp:           -2.900000E+26
+Mrt:           -2.400000E+24
+Mrp:           -2.520000E+26
+Mtp:            3.910000E+25
+
+ PDE 2014 04 03 02 43 11.20  -20.5700  -70.5000  10.0 7.7 7.7 NEAR COAST OF NORTHERN CHILE
+event name:   C201404030243A
+time shift:          24.7000
+half duration:       17.9000
+latitude:           -20.4300
+longitude:          -70.6000
+depth:               28.7000
+Mrr:            2.200000E+27
+Mtt:            4.600000E+25
+Mpp:           -2.240000E+27
+Mrt:            1.220000E+27
+Mrp:           -4.200000E+27
+Mtp:            3.800000E+26
+
+ PDE 2014 04 11 07 07 23.10   -6.5900  155.0500  60.5 7.1 7.1 SOLOMON ISLANDS
+event name:   C201404110707A
+time shift:          10.8000
+half duration:        8.4000
+latitude:            -6.7800
+longitude:          155.0900
+depth:               44.1000
+Mrr:            4.950000E+26
+Mtt:           -2.770000E+26
+Mpp:           -2.180000E+26
+Mrt:            2.710000E+25
+Mrp:           -4.700000E+25
+Mtp:            2.660000E+26
+
+ PDE 2014 04 12 20 14 39.30  -11.2700  162.1500  22.6 7.6 7.6 SOLOMON ISLANDS
+event name:   C201404122014A
+time shift:          10.6000
+half duration:       15.6000
+latitude:           -11.3500
+longitude:          162.2400
+depth:               27.3000
+Mrr:            2.610000E+26
+Mtt:            1.660000E+27
+Mpp:           -1.930000E+27
+Mrt:            2.240000E+27
+Mrp:            7.410000E+26
+Mtp:            1.760000E+27
+
+ PDE 2014 04 13 12 36 19.20  -11.4600  162.0500  39.0 7.4 7.4 SOLOMON ISLANDS
+event name:   C201404131236A
+time shift:           8.9000
+half duration:       12.7000
+latitude:           -11.4500
+longitude:          161.9700
+depth:               37.5000
+Mrr:            1.680000E+27
+Mtt:           -1.780000E+27
+Mpp:            1.000000E+26
+Mrt:           -1.350000E+26
+Mrp:            2.770000E+26
+Mtp:            3.390000E+26
+
+ PDE 2014 04 18 14 27 25.00   17.4000 -100.9600  24.0 7.3 7.2 GUERRERO, MEXICO
+event name:   C201404181427A
+time shift:          11.1000
+half duration:       10.5000
+latitude:            17.5500
+longitude:         -101.2500
+depth:               18.9000
+Mrr:            6.080000E+26
+Mtt:           -4.430000E+26
+Mpp:           -1.650000E+26
+Mrt:            7.440000E+26
+Mrp:           -3.250000E+26
+Mtp:            2.270000E+26
+
+ PDE 2014 04 19 13 28 00.80   -6.7600  155.0200  43.4 7.5 7.5 SOLOMON ISLANDS
+event name:   C201404191328A
+time shift:          12.0000
+half duration:       13.8000
+latitude:            -6.6400
+longitude:          154.6700
+depth:               36.0000
+Mrr:            2.120000E+27
+Mtt:           -1.150000E+27
+Mpp:           -9.700000E+26
+Mrt:            5.400000E+26
+Mrp:           -6.030000E+26
+Mtp:            1.110000E+27
+
+ PDE 2014 06 23 20 53 09.70   51.8300  178.7500 109.0 7.9 7.9 RAT ISLANDS, ALEUTIAN ISLANDS
+event name:   C201406232053A
+time shift:          24.0000
+half duration:       22.4000
+latitude:            52.0000
+longitude:          178.4300
+depth:              104.3000
+Mrr:           -1.790000E+27
+Mtt:           -3.140000E+27
+Mpp:            4.940000E+27
+Mrt:            7.050000E+27
+Mrp:           -4.830000E+27
+Mtp:           -1.620000E+27
+
+ PDE 2014 10 14 03 51 34.50   12.5300  -88.1200  40.0 7.3 7.3 OFF COAST OF CENTRAL AMERICA
+event name:   C201410140351A
+time shift:           9.2000
+half duration:       10.7000
+latitude:            12.3300
+longitude:          -88.4500
+depth:               40.8000
+Mrr:           -7.260000E+26
+Mtt:            4.820000E+26
+Mpp:            2.440000E+26
+Mrt:            5.670000E+26
+Mrp:           -4.740000E+26
+Mtp:           -4.100000E+26
+
+ PDE 2014 11 01 18 57 22.40  -19.6900 -177.7600 434.0 7.1 7.1 FIJI ISLANDS REGION
+event name:   C201411011857A
+time shift:           7.5000
+half duration:        8.7000
+latitude:           -19.7600
+longitude:         -177.6100
+depth:              445.4000
+Mrr:            1.630000E+26
+Mtt:           -3.040000E+26
+Mpp:            1.400000E+26
+Mrt:           -4.890000E+26
+Mrp:           -1.590000E+26
+Mtp:            3.710000E+25
+
+ PDE 2014 11 15 02 31 41.70    1.9000  126.5200  45.0 7.0 7.1 NORTHERN MOLUCCA SEA
+event name:   C201411150231A
+time shift:           8.1000
+half duration:        8.2000
+latitude:             1.9800
+longitude:          126.3700
+depth:               38.1000
+Mrr:            4.120000E+26
+Mtt:           -8.330000E+25
+Mpp:           -3.290000E+26
+Mrt:           -6.100000E+24
+Mrp:           -2.050000E+26
+Mtp:           -2.030000E+26
+
+ PDE 2015 02 13 18 59 12.20   52.6500  -31.9000  16.7 7.1 7.1 NORTHERN MID-ATLANTIC RIDGE
+event name:   C201502131859A
+time shift:          15.8000
+half duration:        8.4000
+latitude:            52.7000
+longitude:          -32.7400
+depth:               25.2000
+Mrr:           -3.790000E+25
+Mtt:           -1.030000E+26
+Mpp:            1.410000E+26
+Mrt:            8.910000E+25
+Mrp:           -5.200000E+24
+Mtp:           -4.910000E+26
+
+ PDE 2015 03 29 23 48 31.00   -4.7300  152.5600  41.0 7.5 7.5 NEW BRITAIN REGION, P.N.G.
+event name:   C201503292348A
+time shift:          23.7000
+half duration:       13.0000
+latitude:            -5.1800
+longitude:          152.5900
+depth:               37.6000
+Mrr:            1.570000E+27
+Mtt:           -1.580000E+27
+Mpp:            7.000000E+24
+Mrt:            9.940000E+26
+Mrp:            1.660000E+26
+Mtp:           -2.730000E+26
+
+ PDE 2015 04 25 06 11 26.30   28.1500   84.7100  15.0 7.9 7.8 NEPAL
+event name:   C201504250611A
+time shift:          32.3000
+half duration:       21.3000
+latitude:            27.9100
+longitude:           85.3300
+depth:               12.0000
+Mrr:            1.760000E+27
+Mtt:           -1.820000E+27
+Mpp:            5.800000E+25
+Mrt:            8.040000E+27
+Mrp:           -1.510000E+27
+Mtp:            4.750000E+26
+
+ PDE 2015 05 05 01 44 06.40   -5.4600  151.8800  55.0 7.5 7.5 NEW BRITAIN REGION, P.N.G.
+event name:   C201505050144A
+time shift:          20.2000
+half duration:       13.1000
+latitude:            -5.3200
+longitude:          152.1000
+depth:               38.3000
+Mrr:            1.700000E+27
+Mtt:           -1.630000E+27
+Mpp:           -6.700000E+25
+Mrt:            8.240000E+26
+Mrp:            1.200000E+25
+Mtp:           -5.480000E+26
+
+ PDE 2015 05 12 07 05 19.70   27.8100   86.0700  15.0 7.2 7.3 NEPAL
+event name:   C201505120705A
+time shift:           7.8000
+half duration:       10.1000
+latitude:            27.6700
+longitude:           86.0800
+depth:               12.0000
+Mrr:            2.700000E+26
+Mtt:           -2.620000E+26
+Mpp:           -8.300000E+24
+Mrt:            8.250000E+26
+Mrp:           -1.280000E+26
+Mtp:            1.220000E+26
+
+ PDE 2015 05 30 11 23 02.10   27.8400  140.4900 664.0 7.9 7.8 BONIN ISLANDS, JAPAN REGION
+event name:   C201505301123A
+time shift:           8.9000
+half duration:       20.7000
+latitude:            27.9400
+longitude:          140.5600
+depth:              680.7000
+Mrr:           -3.860000E+27
+Mtt:           -6.570000E+26
+Mpp:            4.520000E+27
+Mrt:           -2.870000E+27
+Mrp:            5.610000E+27
+Mtp:            1.100000E+27
+
+ PDE 2015 09 16 22 54 32.90  -31.5700  -71.6700  22.4 8.3 8.3 NEAR COAST OF CENTRAL CHILE
+event name:   C201509162254A
+time shift:          50.0000
+half duration:       33.4000
+latitude:           -31.1300
+longitude:          -72.0900
+depth:               17.4000
+Mrr:            1.950000E+28
+Mtt:           -4.400000E+26
+Mpp:           -1.910000E+28
+Mrt:            7.420000E+27
+Mrp:           -2.480000E+28
+Mtp:            9.400000E+26
+
+ PDE 2015 09 16 23 18 41.80  -31.5600  -71.4300  28.4 7.1 7.0 NEAR COAST OF CENTRAL CHILE
+event name:   S201509162318A
+time shift:          10.3000
+half duration:        8.7000
+latitude:           -31.7900
+longitude:          -71.9500
+depth:               35.7000
+Mrr:            5.130000E+26
+Mtt:           -6.370000E+25
+Mpp:           -4.490000E+26
+Mrt:            2.650000E+25
+Mrp:           -2.850000E+26
+Mtp:            6.410000E+25
+
+ PDE 2015 10 20 21 52 02.60  -14.8600  167.3000 135.0 7.1 7.1 VANUATU ISLANDS
+event name:   C201510202152A
+time shift:           5.3000
+half duration:        8.7000
+latitude:           -14.8800
+longitude:          167.1900
+depth:              140.9000
+Mrr:            2.700000E+26
+Mtt:            1.160000E+26
+Mpp:           -3.850000E+26
+Mrt:           -2.890000E+26
+Mrp:           -1.100000E+26
+Mtp:            3.410000E+26
+
+ PDE 2015 10 26 09 09 42.60   36.5300   70.3600 231.0 7.5 7.5 HINDU KUSH REGION, AFGHANISTAN
+event name:   C201510260909A
+time shift:           4.0000
+half duration:       13.7000
+latitude:            36.5500
+longitude:           70.4200
+depth:              209.4000
+Mrr:            1.530000E+27
+Mtt:           -1.430000E+27
+Mpp:           -1.010000E+26
+Mrt:            1.600000E+27
+Mrp:           -4.370000E+26
+Mtp:            2.770000E+26
+
+ PDE 2015 11 24 22 45 38.10  -10.5500  -70.9000 600.6 7.5 7.6 PERU-BRAZIL BORDER REGION
+event name:   M201511242245A
+time shift:           8.7000
+half duration:       16.6000
+latitude:           -10.7300
+longitude:          -71.1200
+depth:              610.7000
+Mrr:           -2.590000E+27
+Mtt:            3.010000E+26
+Mpp:            2.290000E+27
+Mrt:           -4.610000E+26
+Mrp:            4.920000E+26
+Mtp:           -6.420000E+26
+
+ PDE 2015 11 24 22 50 53.80  -10.0500  -71.0200 611.7 7.7 7.6 PERU-BRAZIL BORDER REGION
+event name:   C201511242250A
+time shift:           6.9000
+half duration:       16.6000
+latitude:           -10.1100
+longitude:          -71.2800
+depth:              627.3000
+Mrr:           -3.270000E+27
+Mtt:            3.950000E+26
+Mpp:            2.870000E+27
+Mrt:           -8.240000E+26
+Mrp:            1.750000E+27
+Mtp:           -6.720000E+26
+
+ PDE 2015 12 04 22 25 00.10  -47.6200   85.0900  35.0 7.1 7.1 SOUTHEAST INDIAN RIDGE
+event name:   C201512042224A
+time shift:           8.5000
+half duration:        8.6000
+latitude:           -47.7400
+longitude:           85.2300
+depth:               28.9000
+Mrr:           -4.440000E+26
+Mtt:           -5.180000E+25
+Mpp:            4.960000E+26
+Mrt:           -1.300000E+26
+Mrp:            1.040000E+26
+Mtp:            2.400000E+26
+
+ PDE 2015 12 07 07 50 07.50   38.2300   72.7500  33.0 7.2 7.2 TAJIKISTAN
+event name:   C201512070750A
+time shift:           6.3000
+half duration:        9.6000
+latitude:            38.3900
+longitude:           72.9100
+depth:               12.0000
+Mrr:           -1.130000E+26
+Mtt:           -6.280000E+26
+Mpp:            7.410000E+26
+Mrt:            1.290000E+26
+Mrp:           -5.000000E+24
+Mtp:           -3.050000E+26
+
+ PDE 2016 01 24 10 30 30.20   59.6400 -153.4000 129.0 7.1 7.1 SOUTHERN ALASKA
+event name:   C201601241030A
+time shift:           7.2000
+half duration:        8.8000
+latitude:            59.7500
+longitude:         -153.2700
+depth:              110.7000
+Mrr:            2.390000E+26
+Mtt:           -5.660000E+26
+Mpp:            3.270000E+26
+Mrt:            8.340000E+25
+Mrp:            3.050000E+26
+Mtp:            9.650000E+25
+
+ PDE 2016 01 30 03 25 12.20   53.9800  158.5400 177.0 7.2 7.2 NEAR EAST COAST OF KAMCHATKA
+event name:   C201601300325A
+time shift:           7.6000
+half duration:       10.0000
+latitude:            53.8600
+longitude:          158.7300
+depth:              168.1000
+Mrr:           -4.120000E+26
+Mtt:            5.530000E+26
+Mpp:           -1.410000E+26
+Mrt:           -5.160000E+26
+Mrp:           -3.350000E+26
+Mtp:           -3.410000E+26
+
+ PDE 2016 03 02 12 49 48.10   -4.9500   94.3300  24.0 7.8 7.8 SOUTHWEST OF SUMATRA, INDONESIA
+event name:   C201603021249A
+time shift:          17.3000
+half duration:       19.0000
+latitude:            -4.7500
+longitude:           94.2200
+depth:               37.2000
+Mrr:            1.630000E+26
+Mtt:           -1.110000E+27
+Mpp:            9.430000E+26
+Mrt:            5.000000E+24
+Mrp:            2.850000E+26
+Mtp:           -5.830000E+27
+
+ PDE 2016 04 15 16 25 06.20   32.7900  130.7500  10.0 7.0 7.0 KYUSHU, JAPAN
+event name:   C201604151625A
+time shift:           9.5000
+half duration:        8.1000
+latitude:            32.8400
+longitude:          130.7700
+depth:               12.9000
+Mrr:           -1.660000E+26
+Mtt:            5.060000E+26
+Mpp:           -3.400000E+26
+Mrt:            3.750000E+25
+Mrp:            9.400000E+25
+Mtp:            8.240000E+25
+
+ PDE 2016 04 16 23 58 36.90    0.3500  -79.9300  21.0 7.8 7.8 NEAR COAST OF ECUADOR
+event name:   C201604162358A
+time shift:          20.1000
+half duration:       19.0000
+latitude:            -0.1200
+longitude:          -80.2500
+depth:               22.3000
+Mrr:            3.410000E+27
+Mtt:            3.400000E+25
+Mpp:           -3.440000E+27
+Mrt:            1.220000E+27
+Mrp:           -4.650000E+27
+Mtp:           -6.430000E+26
+
+ PDE 2016 05 28 09 46 59.80  -56.2400  -26.9300  78.0 7.2 7.2 SOUTH SANDWICH ISLANDS REGION
+event name:   C201605280947A
+time shift:           8.3000
+half duration:        9.5000
+latitude:           -56.2400
+longitude:          -26.5000
+depth:               68.7000
+Mrr:           -4.430000E+26
+Mtt:            5.710000E+26
+Mpp:           -1.280000E+26
+Mrt:           -4.170000E+26
+Mrp:            2.340000E+26
+Mtp:            2.530000E+26
+
+ PDE 2016 07 29 21 18 24.70   18.5400  145.5100 196.0 7.7 7.7 MARIANA ISLANDS
+event name:   C201607292118A
+time shift:           8.9000
+half duration:       17.6000
+latitude:            18.5000
+longitude:          145.7000
+depth:              208.9000
+Mrr:            3.360000E+27
+Mtt:            4.050000E+26
+Mpp:           -3.770000E+27
+Mrt:           -2.410000E+27
+Mrp:            1.800000E+27
+Mtp:            7.850000E+26
+
+ PDE 2016 08 12 01 26 36.30  -22.4800  173.1200  16.4 7.2 7.2 SOUTHEAST OF LOYALTY ISLANDS
+event name:   C201608120126A
+time shift:           8.9000
+half duration:        9.3000
+latitude:           -22.5600
+longitude:          173.0700
+depth:               21.8000
+Mrr:           -8.790000E+25
+Mtt:           -3.760000E+26
+Mpp:            4.630000E+26
+Mrt:           -1.810000E+25
+Mrp:            2.060000E+26
+Mtp:           -5.310000E+26
+
+ PDE 2016 08 19 07 32 22.70  -55.2800  -31.8800  10.0 7.5 7.4 SOUTH GEORGIA ISLAND REGION
+event name:   C201608190732A
+time shift:          15.7000
+half duration:       13.1000
+latitude:           -55.1600
+longitude:          -31.4100
+depth:               22.1000
+Mrr:            1.310000E+27
+Mtt:           -8.740000E+26
+Mpp:           -4.320000E+26
+Mrt:           -8.480000E+26
+Mrp:            1.040000E+27
+Mtp:            7.990000E+26
+
+ PDE 2016 08 29 04 29 57.90   -0.0500  -17.8300  10.0 7.1 7.1 NORTH OF ASCENSION ISLAND
+event name:   C201608290430A
+time shift:          20.4000
+half duration:        8.7000
+latitude:             0.1300
+longitude:          -17.7200
+depth:               26.8000
+Mrr:           -4.220000E+25
+Mtt:            2.250000E+26
+Mpp:           -1.830000E+26
+Mrt:            8.580000E+25
+Mrp:           -1.200000E+26
+Mtp:           -5.130000E+26
+
+ PDE 2016 09 01 16 37 57.30  -37.3600  179.1500  19.0 7.1 7.0 OFF E. COAST OF N. ISLAND, N.Z.
+event name:   C201609011637A
+time shift:          18.5000
+half duration:        8.4000
+latitude:           -37.1900
+longitude:          179.0300
+depth:               27.8000
+Mrr:           -2.210000E+26
+Mtt:           -3.420000E+25
+Mpp:            2.560000E+26
+Mrt:            2.910000E+26
+Mrp:            3.180000E+26
+Mtp:            1.080000E+26
+
+ PDE 2016 11 13 11 02 56.30  -42.7400  173.0500  15.2 7.8 7.8 SOUTH ISLAND, NEW ZEALAND
+event name:   C201611131102A
+time shift:          56.9000
+half duration:       19.8000
+latitude:           -42.0300
+longitude:          173.8500
+depth:               18.8000
+Mrr:            3.560000E+27
+Mtt:            1.690000E+27
+Mpp:           -5.250000E+27
+Mrt:           -1.140000E+27
+Mrp:            4.340000E+27
+Mtp:           -2.040000E+27
+
+ PDE 2016 12 08 17 38 46.30  -10.6800  161.3200  40.0 7.8 7.8 SOLOMON ISLANDS
+event name:   C201612081738A
+time shift:          14.2000
+half duration:       19.4000
+latitude:           -10.4600
+longitude:          161.1200
+depth:               45.5000
+Mrr:            5.220000E+27
+Mtt:           -3.570000E+27
+Mpp:           -1.650000E+27
+Mrt:           -1.350000E+27
+Mrp:           -1.860000E+27
+Mtp:            3.690000E+27
+
+ PDE 2016 12 17 10 51 10.50   -4.5100  153.5200  94.5 7.9 7.9 NEW IRELAND REGION, P.N.G.
+event name:   C201612171051A
+time shift:          45.8000
+half duration:       21.2000
+latitude:            -5.5500
+longitude:          153.7600
+depth:               52.8000
+Mrr:            7.920000E+27
+Mtt:           -3.670000E+27
+Mpp:           -4.250000E+27
+Mrt:           -1.530000E+27
+Mrp:            1.030000E+27
+Mtp:            4.210000E+27
+
+ PDE 2016 12 25 14 22 27.00  -43.4100  -73.9400  38.0 7.6 7.6 SOUTHERN CHILE
+event name:   C201612251422A
+time shift:          11.0000
+half duration:       14.9000
+latitude:           -43.4100
+longitude:          -74.4300
+depth:               32.8000
+Mrr:            1.750000E+27
+Mtt:           -2.900000E+25
+Mpp:           -1.730000E+27
+Mrt:            1.060000E+26
+Mrp:           -2.240000E+27
+Mtp:           -3.400000E+25
+
+ PDE 2017 01 10 06 13 48.10    4.4800  122.6200 627.2 7.3 7.3 CELEBES SEA
+event name:   C201701100613A
+time shift:           7.8000
+half duration:       10.5000
+latitude:             4.5700
+longitude:          122.7800
+depth:              621.5000
+Mrr:           -7.300000E+25
+Mtt:            1.430000E+26
+Mpp:           -7.000000E+25
+Mrt:            7.100000E+25
+Mrp:           -9.660000E+26
+Mtp:            2.700000E+26
+
+ PDE 2017 01 22 04 30 23.00   -6.2500  155.1700 135.0 7.9 7.9 SOLOMON ISLANDS
+event name:   C201701220430A
+time shift:          15.1000
+half duration:       21.5000
+latitude:            -6.0300
+longitude:          154.9400
+depth:              149.6000
+Mrr:            8.420000E+27
+Mtt:           -5.840000E+27
+Mpp:           -2.580000E+27
+Mrt:            8.700000E+26
+Mrp:           -1.660000E+27
+Mtp:            3.860000E+27
+
+ PDE 2017 07 17 23 34 13.90   54.4700  168.8200  11.0 7.8 7.7 KOMANDORSKIYE OSTROVA REGION
+event name:   C201707172334A
+time shift:          43.8000
+half duration:       18.4000
+latitude:            54.1300
+longitude:          169.7800
+depth:               23.2000
+Mrr:           -1.250000E+26
+Mtt:           -5.110000E+27
+Mpp:            5.230000E+27
+Mrt:            4.220000E+26
+Mrp:            2.410000E+26
+Mtp:           -1.490000E+27
+
+ PDE 2017 09 08 04 49 19.20   15.0200  -93.9000  47.4 8.2 8.2 NEAR COAST OF CHIAPAS, MEXICO
+event name:   C201709080449A
+time shift:          27.5000
+half duration:       32.0000
+latitude:            15.3800
+longitude:          -94.6600
+depth:               44.8000
+Mrr:           -1.090000E+28
+Mtt:            3.580000E+27
+Mpp:            7.340000E+27
+Mrt:            1.750000E+28
+Mrp:           -1.890000E+28
+Mtp:           -6.520000E+27
+
+ PDE 2017 09 19 18 14 38.10   18.5500  -98.4900  48.0 7.1 7.1 CENTRAL MEXICO
+event name:   C201709191814A
+time shift:           9.1000
+half duration:        9.1000
+latitude:            18.5900
+longitude:          -98.6300
+depth:               51.0000
+Mrr:           -6.560000E+26
+Mtt:            5.320000E+26
+Mpp:            1.240000E+26
+Mrt:           -4.240000E+25
+Mrp:           -4.840000E+25
+Mtp:           -2.360000E+26
+
+ PDE 2017 11 12 18 18 17.20   34.9100   45.9600  19.0 7.4 7.3 IRAN-IRAQ BORDER REGION
+event name:   C201711121818A
+time shift:           8.1000
+half duration:       12.2000
+latitude:            34.8300
+longitude:           45.8400
+depth:               17.9000
+Mrr:            3.790000E+26
+Mtt:           -7.600000E+25
+Mpp:           -3.020000E+26
+Mrt:            1.330000E+27
+Mrp:           -7.660000E+26
+Mtp:            2.670000E+26
+

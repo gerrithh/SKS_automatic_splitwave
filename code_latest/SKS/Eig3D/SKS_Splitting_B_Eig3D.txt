@@ -1,0 +1,1 @@
+# Station.code, Station.lat [°],Station.lon [°],Event time, Event depth [km], Event mag, Event lat [°],Event lon [°],fast dir [°],dfast dir [°],lag [s],dlag [s],SNR dB
